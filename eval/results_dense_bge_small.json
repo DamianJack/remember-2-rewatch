@@ -1,0 +1,1002 @@
+[
+  {
+    "qid": "q01",
+    "type": "word",
+    "query": "Hogwarts first year, Voldemort, Quidditch and the philosopher's stone",
+    "answer": "Harry Potter and the Philosopher's Stone",
+    "rank": 1,
+    "latency_ms": 173.0,
+    "top10": [
+      "Harry Potter and the Philosopher's Stone (2001)  score=0.741",
+      "Harry Potter and the Order of the Phoenix (2007)  score=0.698",
+      "Harry Potter and the Prisoner of Azkaban (2004)  score=0.694",
+      "Harry Potter and the Half-Blood Prince (2009)  score=0.687",
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)  score=0.686",
+      "Harry Potter and the Goblet of Fire (2005)  score=0.662",
+      "A Very Potter Senior Year (2013)  score=0.659",
+      "Harry Potter and the Deathly Hallows: Part 2 (2011)  score=0.656",
+      "The Egg and the Stone (1990)  score=0.656",
+      "Harry Potter and the Chamber of Secrets (2002)  score=0.652"
+    ]
+  },
+  {
+    "qid": "q02",
+    "type": "word",
+    "query": "Simba, Mufasa and Scar at Pride Rock",
+    "answer": "The Lion King",
+    "rank": null,
+    "latency_ms": 50.0,
+    "top10": [
+      "The Lion King (2019)  score=0.651",
+      "The Lion King II: Simba's Pride (1998)  score=0.615",
+      "Curse of Simba (1965)  score=0.596",
+      "Simba (2019)  score=0.589",
+      "Metallica: Pride, Passion and Glory - Three Nights in Mexico City (2009)  score=0.587",
+      "Rock the Kasbah (2015)  score=0.581",
+      "Simla Special (1982)  score=0.576",
+      "This Is the Story of an Italian Rock Star (2011)  score=0.574",
+      "Proud Flesh (1925)  score=0.573",
+      "Lola and Billy the Kid (1999)  score=0.571"
+    ]
+  },
+  {
+    "qid": "q03",
+    "type": "word",
+    "query": "Jack and Rose on the ship that hits an iceberg",
+    "answer": "Titanic",
+    "rank": 4,
+    "latency_ms": 43.0,
+    "top10": [
+      "Captains Courageous (1937)  score=0.679",
+      "The Icebreaker (2016)  score=0.676",
+      "Australia's Peril (1917)  score=0.675",
+      "Titanic (1997)  score=0.672",
+      "A Night to Remember (1958)  score=0.667",
+      "Down to the Sea in Ships (1949)  score=0.665",
+      "By the Bluest of Seas (1936)  score=0.664",
+      "Captain Jack (1999)  score=0.664",
+      "The Light at the Edge of the World (1971)  score=0.663",
+      "The Ballad of Jack and Rose (2005)  score=0.660"
+    ]
+  },
+  {
+    "qid": "q04",
+    "type": "word",
+    "query": "Neo takes the red pill, Morpheus, Trinity and Agent Smith",
+    "answer": "The Matrix",
+    "rank": null,
+    "latency_ms": 61.7,
+    "top10": [
+      "The Matrix Reloaded (2003)  score=0.695",
+      "The Matrix Resurrections (2021)  score=0.654",
+      "Cyberzone (1995)  score=0.630",
+      "The Matrix Revolutions: Neo Realism - Evolution of Bullet Time (2004)  score=0.622",
+      "Neo Tokyo (1989)  score=0.622",
+      "The Red Pill (2016)  score=0.619",
+      "Brilliantlove (2010)  score=0.617",
+      "Nirvana (2008)  score=0.616",
+      "The Matrix Revolutions (2003)  score=0.616",
+      "Red: The Dark Side (2007)  score=0.615"
+    ]
+  },
+  {
+    "qid": "q05",
+    "type": "word",
+    "query": "why Kattappa killed Baahubali, Mahishmati and Devasena",
+    "answer": "Baahubali 2: The Conclusion",
+    "rank": null,
+    "latency_ms": 55.1,
+    "top10": [
+      "Samay (2024)  score=0.707",
+      "Kattukuthira (1990)  score=0.696",
+      "I Killed Bapu (2023)  score=0.694",
+      "Ladaai (1989)  score=0.693",
+      "Samskara (1970)  score=0.689",
+      "Kuttavali (1971)  score=0.681",
+      "Kattabomman (1993)  score=0.681",
+      "Makale Mappu Tharu (1984)  score=0.680",
+      "Alakadalinakkare (1984)  score=0.677",
+      "Kirumi (2015)  score=0.676"
+    ]
+  },
+  {
+    "qid": "q06",
+    "type": "word",
+    "query": "Raj and Simran meet on a train trip in Europe, mustard fields in Punjab",
+    "answer": "Dilwale Dulhania Le Jayenge",
+    "rank": null,
+    "latency_ms": 48.2,
+    "top10": [
+      "Train to Pakistan (1998)  score=0.647",
+      "The Passengers (2024)  score=0.637",
+      "Toba Tek Singh (2018)  score=0.634",
+      "Ladies Only (1939)  score=0.631",
+      "Love Punjab (2016)  score=0.627",
+      "Kala Pani (1996)  score=0.627",
+      "From the Heart (1998)  score=0.624",
+      "Kudrat (1981)  score=0.624",
+      "Taron Paar (2025)  score=0.624",
+      "Punjab Bolda (2013)  score=0.623"
+    ]
+  },
+  {
+    "qid": "q07",
+    "type": "word",
+    "query": "Gabbar Singh, Jai and Veeru, Thakur in Ramgarh",
+    "answer": "Sholay",
+    "rank": null,
+    "latency_ms": 53.2,
+    "top10": [
+      "Sholay 3D (2014)  score=0.641",
+      "Bhai Thakur (2000)  score=0.639",
+      "Kuchhe Dhaage (1973)  score=0.620",
+      "Main Tera Dushman (1989)  score=0.615",
+      "Ramgarh Ke Sholay (1991)  score=0.611",
+      "Tu Chor Main Sipahi (1996)  score=0.601",
+      "Ghulami (1985)  score=0.595",
+      "Thulabharam (1974)  score=0.595",
+      "Veer Hamirji – Somanath Ni Sakhate (2012)  score=0.595",
+      "Mumbai (2017)  score=0.595"
+    ]
+  },
+  {
+    "qid": "q08",
+    "type": "word",
+    "query": "Rancho, Farhan and Raju at an engineering college with the director Virus",
+    "answer": "3 Idiots",
+    "rank": 8,
+    "latency_ms": 59.8,
+    "top10": [
+      "Three Idiots (2009)  score=0.716",
+      "1st Rank Raju (2019)  score=0.659",
+      "B Tech (2018)  score=0.651",
+      "7Aum Arivu (2011)  score=0.644",
+      "College Road (2022)  score=0.640",
+      "Operation Java (2021)  score=0.638",
+      "Virus (2007)  score=0.635",
+      "3 Idiots (2009)  score=0.632",
+      "Parallel College (1991)  score=0.630",
+      "Jattu Engineer (2017)  score=0.629"
+    ]
+  },
+  {
+    "qid": "q09",
+    "type": "word",
+    "query": "Dom Cobb, dream within a dream, spinning top totem",
+    "answer": "Inception",
+    "rank": null,
+    "latency_ms": 44.2,
+    "top10": [
+      "Spin (2005)  score=0.609",
+      "Totem (2017)  score=0.604",
+      "I Dream in Another Language (2017)  score=0.594",
+      "House (1986)  score=0.594",
+      "I Dream of Wires (2014)  score=0.593",
+      "Dream Work (2001)  score=0.593",
+      "Spinning Gold (2023)  score=0.588",
+      "Visions in Meditation #3: Plato's Cave (1990)  score=0.587",
+      "The Wraith of Cobble Hill (2006)  score=0.586",
+      "Valse Triste (1977)  score=0.585"
+    ]
+  },
+  {
+    "qid": "q10",
+    "type": "word",
+    "query": "Hannibal Lecter helps FBI trainee Clarice Starling",
+    "answer": "The Silence of the Lambs",
+    "rank": 1,
+    "latency_ms": 75.0,
+    "top10": [
+      "The Silence of the Lambs (1991)  score=0.722",
+      "Hannibal (2001)  score=0.664",
+      "Manhunter (1986)  score=0.646",
+      "Red Dragon (2002)  score=0.645",
+      "Hannibal Rising (2007)  score=0.634",
+      "Velvet Smooth (1976)  score=0.622",
+      "Night of the Lepus (1972)  score=0.609",
+      "Serial Killers: The Real Life Hannibal Lecters (2001)  score=0.601",
+      "Feds (1988)  score=0.597",
+      "Corridors of Blood (1958)  score=0.595"
+    ]
+  },
+  {
+    "qid": "q11",
+    "type": "word",
+    "query": "Marty McFly, DeLorean, Doc Brown, 1955",
+    "answer": "Back to the Future",
+    "rank": 1,
+    "latency_ms": 26.6,
+    "top10": [
+      "Back to the Future (1985)  score=0.675",
+      "Back in Time (2015)  score=0.638",
+      "Doc Brown Saves the World (2015)  score=0.624",
+      "Back To the Present: The Special (2015)  score=0.623",
+      "Framing John DeLorean (2019)  score=0.615",
+      "Long Gone (1987)  score=0.603",
+      "Parachute Battalion (1941)  score=0.603",
+      "You're a Sap, Mr. Jap (1942)  score=0.601",
+      "Tex Avery: King of Cartoons (1988)  score=0.597",
+      "Fifty Dead Men Walking (2008)  score=0.596"
+    ]
+  },
+  {
+    "qid": "q12",
+    "type": "word",
+    "query": "Wakanda, vibranium, T'Challa and Killmonger",
+    "answer": "Black Panther",
+    "rank": null,
+    "latency_ms": 29.0,
+    "top10": [
+      "Black Panther (2010)  score=0.683",
+      "Ultimate Avengers 2 (2006)  score=0.682",
+      "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda (2018)  score=0.657",
+      "Black Panther: Wakanda Forever (2022)  score=0.656",
+      "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever (2023)  score=0.645",
+      "Ultimate Avengers 2: Rise of the Panther (2006)  score=0.636",
+      "All Superheroes Must Die (2011)  score=0.635",
+      "Superman/Shazam!: The Return of Black Adam (2010)  score=0.634",
+      "Venom (1971)  score=0.625",
+      "Doom (2005)  score=0.625"
+    ]
+  },
+  {
+    "qid": "q13",
+    "type": "word",
+    "query": "Bhuvan and villagers play cricket against British officers in Champaner to stop the tax",
+    "answer": "Lagaan",
+    "rank": null,
+    "latency_ms": 32.4,
+    "top10": [
+      "Andhadhi (2015)  score=0.625",
+      "Bhai Bhai (1997)  score=0.621",
+      "Officer (1950)  score=0.617",
+      "Bharat Ka Khazana (2010)  score=0.613",
+      "Paradh (2010)  score=0.609",
+      "Mrigayaa (1976)  score=0.607",
+      "Jwalamukhi (2000)  score=0.604",
+      "Bhasmasur (2017)  score=0.604",
+      "Bhalwan Singh (2017)  score=0.603",
+      "How India Stole and Killed Cricket (2023)  score=0.602"
+    ]
+  },
+  {
+    "qid": "q14",
+    "type": "word",
+    "query": "Pushpa Raj red sandalwood smuggler",
+    "answer": "Pushpa: The Rise",
+    "rank": 1,
+    "latency_ms": 53.9,
+    "top10": [
+      "Pushpa: The Rise - Part 1 (2021)  score=0.865",
+      "Red Sandal Wood (2023)  score=0.756",
+      "Red Indians (2001)  score=0.725",
+      "Veerappan (2016)  score=0.692",
+      "Gandhada Gudi (1973)  score=0.684",
+      "Captain Prabhakaran (1991)  score=0.667",
+      "Kartavya (1979)  score=0.659",
+      "Ellam Un Kairasi (1980)  score=0.650",
+      "Prathidhwani (1971)  score=0.648",
+      "Pushkar Puran (2017)  score=0.647"
+    ]
+  },
+  {
+    "qid": "q15",
+    "type": "word",
+    "query": "Rocky Balboa, Philadelphia boxer, fight against Apollo Creed",
+    "answer": "Rocky",
+    "rank": 5,
+    "latency_ms": 54.6,
+    "top10": [
+      "Creed (2015)  score=0.787",
+      "Rocky III (1982)  score=0.737",
+      "From Rocky to Creed: The Legacy Continues (2015)  score=0.720",
+      "Rocky IV (1985)  score=0.706",
+      "Rocky (1976)  score=0.702",
+      "Thrilla in Manila (2008)  score=0.696",
+      "Creed II (2018)  score=0.682",
+      "Rocky Balboa (2006)  score=0.681",
+      "The Real Rocky (2011)  score=0.663",
+      "Rocky Marciano (1999)  score=0.656"
+    ]
+  },
+  {
+    "qid": "q16",
+    "type": "word",
+    "query": "Vito Corleone and his son Michael, mafia family",
+    "answer": "The Godfather",
+    "rank": 3,
+    "latency_ms": 60.7,
+    "top10": [
+      "The Godfather Part II (1974)  score=0.747",
+      "Mafia Inc. (2020)  score=0.695",
+      "The Godfather (1972)  score=0.688",
+      "The Godfather Part III (1990)  score=0.687",
+      "It Was the Son (2012)  score=0.684",
+      "Caliber 9 (2020)  score=0.673",
+      "Flight of the Innocent (1992)  score=0.673",
+      "Dear Michele (1976)  score=0.661",
+      "The Godfather Legacy (2012)  score=0.656",
+      "The Family and One More (1965)  score=0.655"
+    ]
+  },
+  {
+    "qid": "q17",
+    "type": "word",
+    "query": "Woody, Buzz Lightyear and Andy's toys",
+    "answer": "Toy Story",
+    "rank": 2,
+    "latency_ms": 56.4,
+    "top10": [
+      "Toy Story 2 (1999)  score=0.711",
+      "Toy Story (1995)  score=0.706",
+      "Operation Sawdust (1953)  score=0.669",
+      "Beyond Infinity: Buzz and the Journey to Lightyear (2022)  score=0.669",
+      "Toy Story 4 (2019)  score=0.668",
+      "Toy Story 3 (2010)  score=0.667",
+      "Child's Play (2019)  score=0.656",
+      "Lamp Life (2020)  score=0.652",
+      "The Toy (1982)  score=0.651",
+      "Toys (1992)  score=0.642"
+    ]
+  },
+  {
+    "qid": "q18",
+    "type": "meaning",
+    "query": "a lion cub runs away after his uncle kills his father and later comes back to become king",
+    "answer": "The Lion King",
+    "rank": 2,
+    "latency_ms": 52.7,
+    "top10": [
+      "King (2022)  score=0.729",
+      "The Lion King (1994)  score=0.712",
+      "The Lion King (2019)  score=0.700",
+      "The Iron Crown (1941)  score=0.688",
+      "Lionman (1975)  score=0.685",
+      "Boss (2011)  score=0.673",
+      "Jungle Run (2021)  score=0.671",
+      "To Walk with Lions (1999)  score=0.665",
+      "The Beastmaster (1982)  score=0.662",
+      "The Donkey King (2018)  score=0.658"
+    ]
+  },
+  {
+    "qid": "q19",
+    "type": "meaning",
+    "query": "a man who can't make new memories tattoos clues on his body to find his wife's killer",
+    "answer": "Memento",
+    "rank": 6,
+    "latency_ms": 78.0,
+    "top10": [
+      "Mystery of Tattoo (2023)  score=0.726",
+      "Uff (2020)  score=0.695",
+      "Body Puzzle (1992)  score=0.685",
+      "Unforgettable (1996)  score=0.675",
+      "Letters from a Killer (1998)  score=0.667",
+      "Memento (2000)  score=0.667",
+      "Memories of Murder (1990)  score=0.665",
+      "An Act of Murder (1948)  score=0.664",
+      "Calling Dr. Death (1943)  score=0.658",
+      "Secret (1999)  score=0.657"
+    ]
+  },
+  {
+    "qid": "q20",
+    "type": "meaning",
+    "query": "an old man ties thousands of balloons to his house and flies away, with a young boy scout on the porch",
+    "answer": "Up",
+    "rank": null,
+    "latency_ms": 223.1,
+    "top10": [
+      "Is Anybody There? (2009)  score=0.560",
+      "Last Chants for a Slow Dance (1977)  score=0.556",
+      "Parchai (2024)  score=0.544",
+      "A Man and His Dog (2009)  score=0.543",
+      "Father Never Bothered (2016)  score=0.543",
+      "Manoranjan (2021)  score=0.543",
+      "Children in the Wind (1937)  score=0.540",
+      "Fly Me Away (2021)  score=0.534",
+      "Gonger (2008)  score=0.534",
+      "Abhay (1995)  score=0.533"
+    ]
+  },
+  {
+    "qid": "q21",
+    "type": "meaning",
+    "query": "a family man fools the police about dates to cover up a crime his daughter committed",
+    "answer": "Drishyam",
+    "rank": null,
+    "latency_ms": 60.6,
+    "top10": [
+      "That Day (2003)  score=0.689",
+      "Winterset (1936)  score=0.683",
+      "Counter Investigation (2007)  score=0.680",
+      "Research in the Interest of Families (2011)  score=0.661",
+      "Family Heist (2017)  score=0.658",
+      "Going Straight (1916)  score=0.654",
+      "Danger Signal Number Nine (2007)  score=0.653",
+      "Laburnum Grove (1936)  score=0.651",
+      "Bad Family (2010)  score=0.649",
+      "Crisis (2025)  score=0.648"
+    ]
+  },
+  {
+    "qid": "q22",
+    "type": "meaning",
+    "query": "a poor family slowly tricks their way into working for a rich family in their house",
+    "answer": "Parasite",
+    "rank": null,
+    "latency_ms": 59.2,
+    "top10": [
+      "A House of Time Traps (2018)  score=0.725",
+      "The Groom Gets A Bride (1984)  score=0.699",
+      "Pinneyum (2016)  score=0.697",
+      "We Are the Nobles (2013)  score=0.690",
+      "Avaghachi Sansar (1960)  score=0.689",
+      "Kshemanga Velli Labhamga Randi (2000)  score=0.673",
+      "Grand-Daddy Day Care (2019)  score=0.672",
+      "Moroner Pore (1990)  score=0.669",
+      "Our Family (1975)  score=0.667",
+      "A Family Like Many Others (1949)  score=0.666"
+    ]
+  },
+  {
+    "qid": "q23",
+    "type": "meaning",
+    "query": "a boy survives a shipwreck and shares a lifeboat with a tiger in the ocean",
+    "answer": "Life of Pi",
+    "rank": null,
+    "latency_ms": 45.7,
+    "top10": [
+      "The Tiger Is Still Alive: Sandokan to the Rescue (1977)  score=0.625",
+      "Tiger Boy (2012)  score=0.619",
+      "For Those in Peril (2013)  score=0.618",
+      "A Tiger's Tail (2014)  score=0.612",
+      "Dolphin Boy (2022)  score=0.610",
+      "The Challenge (1948)  score=0.610",
+      "All Is Lost (2013)  score=0.606",
+      "Lifeboat (1944)  score=0.605",
+      "Shipwrecked (1990)  score=0.604",
+      "Adrift (2018)  score=0.601"
+    ]
+  },
+  {
+    "qid": "q24",
+    "type": "meaning",
+    "query": "a weatherman lives the same day again and again in a small town",
+    "answer": "Groundhog Day",
+    "rank": 1,
+    "latency_ms": 59.6,
+    "top10": [
+      "Groundhog Day (1993)  score=0.657",
+      "The Weather Man (2005)  score=0.651",
+      "Yesterday's past (2020)  score=0.640",
+      "When Every Day Was the Fourth of July (1978)  score=0.637",
+      "Dry Movie (2005)  score=0.636",
+      "Out of Season (2004)  score=0.635",
+      "Wind Castle (2015)  score=0.631",
+      "Only the Wind Knows the Truth (2022)  score=0.630",
+      "Cold Return (2021)  score=0.630",
+      "Ghost Town Anthology (2019)  score=0.624"
+    ]
+  },
+  {
+    "qid": "q25",
+    "type": "meaning",
+    "query": "a lonely robot cleaning up an abandoned dirty earth falls in love",
+    "answer": "WALL-E",
+    "rank": null,
+    "latency_ms": 56.9,
+    "top10": [
+      "Red Rover (2018)  score=0.689",
+      "Everything Beautiful Is Far Away (2017)  score=0.686",
+      "Hard-Core (2018)  score=0.681",
+      "Tom Sweep (1992)  score=0.680",
+      "My Grandpa is an Alien (2019)  score=0.679",
+      "Contract (1985)  score=0.679",
+      "Love (2011)  score=0.678",
+      "Catherine and I (1980)  score=0.673",
+      "Pigtails (2015)  score=0.669",
+      "Earthworm Tractors (1936)  score=0.669"
+    ]
+  },
+  {
+    "qid": "q26",
+    "type": "meaning",
+    "query": "an astronaut stranded alone on Mars grows potatoes to survive",
+    "answer": "The Martian",
+    "rank": 1,
+    "latency_ms": 88.7,
+    "top10": [
+      "The Martian (2015)  score=0.700",
+      "Love (2011)  score=0.662",
+      "Astronaut: The Last Push (2012)  score=0.647",
+      "Marooned (2019)  score=0.626",
+      "Stranded (2001)  score=0.625",
+      "Robinson Crusoe on Mars (1964)  score=0.612",
+      "Beyond the Stars (1989)  score=0.612",
+      "The Astronaut (2023)  score=0.607",
+      "Capsule (2015)  score=0.607",
+      "The Incredible Melting Man (1977)  score=0.604"
+    ]
+  },
+  {
+    "qid": "q27",
+    "type": "meaning",
+    "query": "an art teacher at a boarding school finds out a struggling boy is dyslexic and helps him",
+    "answer": "Taare Zameen Par",
+    "rank": null,
+    "latency_ms": 53.4,
+    "top10": [
+      "Я делаю шаг (2023)  score=0.666",
+      "Front of the Class (2008)  score=0.658",
+      "The Kindergarten Teacher (2014)  score=0.636",
+      "Punch (2011)  score=0.634",
+      "Julius (2018)  score=0.633",
+      "The Flying Classroom (1973)  score=0.627",
+      "Not Broken (2021)  score=0.621",
+      "The Flying Classroom (2003)  score=0.617",
+      "Thenum Vayambum (1981)  score=0.616",
+      "One for All (2020)  score=0.614"
+    ]
+  },
+  {
+    "qid": "q28",
+    "type": "meaning",
+    "query": "a former wrestler trains his daughters to win gold medals for the country",
+    "answer": "Dangal",
+    "rank": null,
+    "latency_ms": 64.2,
+    "top10": [
+      "Champion (2018)  score=0.656",
+      "Son of Sofia (2017)  score=0.639",
+      "Fighting with My Family (2019)  score=0.633",
+      "The Main Event (2020)  score=0.632",
+      "Legendary (2010)  score=0.632",
+      "Going for Gold (2018)  score=0.630",
+      "Lifted (2010)  score=0.630",
+      "A Second Chance (2011)  score=0.625",
+      "American Nightmare: Becoming Cody Rhodes (2023)  score=0.624",
+      "Mr. Nanny (1993)  score=0.618"
+    ]
+  },
+  {
+    "qid": "q29",
+    "type": "meaning",
+    "query": "a boy from the slums wins a quiz show because each question links to his life",
+    "answer": "Slumdog Millionaire",
+    "rank": 3,
+    "latency_ms": 55.2,
+    "top10": [
+      "Colourkite (2015)  score=0.667",
+      "Slumdog Kodisvaran (2018)  score=0.650",
+      "Slumdog Millionaire (2008)  score=0.606",
+      "Gotya (2018)  score=0.606",
+      "Deveeri (1999)  score=0.604",
+      "Soul Boy (2010)  score=0.599",
+      "COAT (2023)  score=0.598",
+      "Gotyaa (2018)  score=0.596",
+      "Deva Rickshawala (2021)  score=0.590",
+      "The Slum Stars (2017)  score=0.590"
+    ]
+  },
+  {
+    "qid": "q30",
+    "type": "meaning",
+    "query": "a little alien left behind on earth becomes friends with a boy who helps him phone home",
+    "answer": "E.T. the Extra-Terrestrial",
+    "rank": 5,
+    "latency_ms": 59.4,
+    "top10": [
+      "Lit­tle Allan — The Human Antenna (2022)  score=0.720",
+      "Luis and the Aliens (2018)  score=0.700",
+      "Earth to Echo (2014)  score=0.682",
+      "My Grandpa is an Alien (2019)  score=0.676",
+      "E.T. the Extra-Terrestrial (1982)  score=0.674",
+      "Dummy the Mummy (2014)  score=0.672",
+      "Robby and Toby's Fantastic Voyager (2016)  score=0.668",
+      "The Lost Thing (2010)  score=0.667",
+      "Come Play (2020)  score=0.662",
+      "Eegai (2023)  score=0.660"
+    ]
+  },
+  {
+    "qid": "q31",
+    "type": "meaning",
+    "query": "a theme park with real dinosaurs on an island goes wrong when the animals escape",
+    "answer": "Jurassic Park",
+    "rank": 1,
+    "latency_ms": 55.8,
+    "top10": [
+      "Jurassic Park (1993)  score=0.741",
+      "Dinosaur Island (2002)  score=0.728",
+      "Dinosaur Island (2014)  score=0.713",
+      "Impy's Island (2006)  score=0.712",
+      "Impy's Wonderland (2008)  score=0.710",
+      "Jurassic World (2015)  score=0.694",
+      "Dinosaur Adventure (2000)  score=0.693",
+      "Unknown Island (1948)  score=0.685",
+      "Dinosaurus! (1960)  score=0.680",
+      "Jurassic Attack (2013)  score=0.676"
+    ]
+  },
+  {
+    "qid": "q32",
+    "type": "meaning",
+    "query": "a banker wrongly sent to prison for killing his wife digs a tunnel for years and escapes",
+    "answer": "The Shawshank Redemption",
+    "rank": null,
+    "latency_ms": 95.4,
+    "top10": [
+      "Cruel & Unusual (2014)  score=0.680",
+      "Rob the Bank (1964)  score=0.678",
+      "Loophole (1981)  score=0.661",
+      "The Killer is Loose (1956)  score=0.659",
+      "Villain (2013)  score=0.658",
+      "Escape Clause (1996)  score=0.658",
+      "Letters from a Killer (1998)  score=0.651",
+      "Murder in Reverse (1945)  score=0.650",
+      "The Tomb (2013)  score=0.649",
+      "Love and Murder (1966)  score=0.642"
+    ]
+  },
+  {
+    "qid": "q33",
+    "type": "meaning",
+    "query": "an alien lands in India, loses the remote for his spaceship and starts questioning religion",
+    "answer": "PK",
+    "rank": 1,
+    "latency_ms": 84.1,
+    "top10": [
+      "PK (2014)  score=0.673",
+      "Objection My God (2018)  score=0.661",
+      "Story of Alien and Rumpa (2013)  score=0.657",
+      "I Am Here....Now (2009)  score=0.655",
+      "Shut The Temple (2015)  score=0.654",
+      "Land of the Gods (2016)  score=0.653",
+      "Praying with Anger (1992)  score=0.652",
+      "Contact (1978)  score=0.652",
+      "Mandala: The UFO Incident (2023)  score=0.643",
+      "Uncut (2021)  score=0.643"
+    ]
+  },
+  {
+    "qid": "q34",
+    "type": "meaning",
+    "query": "a girl enters a world of spirits where her parents are turned into pigs",
+    "answer": "Spirited Away",
+    "rank": null,
+    "latency_ms": 59.8,
+    "top10": [
+      "Thinker (2023)  score=0.722",
+      "Badha (2006)  score=0.708",
+      "Roh (2020)  score=0.692",
+      "My Sister, the Pig Lady (2015)  score=0.684",
+      "A Virgin Among the Living Dead (1973)  score=0.684",
+      "Oink (2022)  score=0.682",
+      "Anguish (2015)  score=0.679",
+      "Cry of the Werewolf (1944)  score=0.678",
+      "My Brother the Pig (1999)  score=0.678",
+      "A Colony (2019)  score=0.677"
+    ]
+  },
+  {
+    "qid": "q35",
+    "type": "meaning",
+    "query": "a murdered man is reborn as a housefly and takes revenge on his killer",
+    "answer": "Eega",
+    "rank": null,
+    "latency_ms": 61.4,
+    "top10": [
+      "The Mangler Reborn (2005)  score=0.712",
+      "Kanoon (1994)  score=0.687",
+      "Agneepath (1990)  score=0.685",
+      "Villa Horror (2006)  score=0.681",
+      "Agneepath (2012)  score=0.675",
+      "His Regeneration (1915)  score=0.674",
+      "Raakh (2016)  score=0.665",
+      "Agnee (2014)  score=0.662",
+      "Murder in Reverse (1945)  score=0.659",
+      "The Return of Superfly (1990)  score=0.658"
+    ]
+  },
+  {
+    "qid": "q36",
+    "type": "judge",
+    "query": "the second part, where we finally learn why the loyal servant killed the hero",
+    "answer": "Baahubali 2: The Conclusion",
+    "rank": null,
+    "latency_ms": 53.0,
+    "top10": [
+      "Alakadalinakkare (1984)  score=0.656",
+      "Ponniyin Selvan: Part II (2023)  score=0.655",
+      "Shapludu (2019)  score=0.652",
+      "Salomé (1918)  score=0.652",
+      "The Seven Deadly Sins: Grudge of Edinburgh Part 2 (2023)  score=0.651",
+      "Ong Bak 2 (2008)  score=0.648",
+      "The Man Who Owed a Death (1955)  score=0.645",
+      "The Loyal Rebel (1915)  score=0.644",
+      "Ajin Part 2: Shōtotsu (2016)  score=0.643",
+      "The Kidnapping (1934)  score=0.642"
+    ]
+  },
+  {
+    "qid": "q37",
+    "type": "judge",
+    "query": "the toy story where the toys end up in a daycare and almost burn at a garbage dump",
+    "answer": "Toy Story 3",
+    "rank": null,
+    "latency_ms": 83.7,
+    "top10": [
+      "For Pete's Sake! (1934)  score=0.689",
+      "Trash (2020)  score=0.687",
+      "Time Toys (2016)  score=0.685",
+      "Trash Fire (2016)  score=0.674",
+      "Broken Toys (1935)  score=0.672",
+      "Tom Sweep (1992)  score=0.669",
+      "The Toybox (2018)  score=0.668",
+      "The Garbage Pail Kids Movie (1987)  score=0.667",
+      "The Forgotten Toys (1995)  score=0.658",
+      "Slicked-up Pup (1951)  score=0.655"
+    ]
+  },
+  {
+    "qid": "q38",
+    "type": "judge",
+    "query": "the godfather film that shows young Vito's early life in New York next to Michael's story",
+    "answer": "The Godfather Part II",
+    "rank": 1,
+    "latency_ms": 102.4,
+    "top10": [
+      "The Godfather Part II (1974)  score=0.780",
+      "Flight of the Innocent (1992)  score=0.741",
+      "The Godfather Part III (1990)  score=0.711",
+      "Gangster Wars (1981)  score=0.701",
+      "GoodFellas (1990)  score=0.692",
+      "The Godfather (1972)  score=0.685",
+      "Al Pacino: The Reluctant Star (2020)  score=0.683",
+      "Italianamerican (1974)  score=0.680",
+      "The Pope of Greenwich Village (1984)  score=0.679",
+      "The Ideal City (2013)  score=0.679"
+    ]
+  },
+  {
+    "qid": "q39",
+    "type": "judge",
+    "query": "the harry potter film where they go back in time with a time turner to save his godfather",
+    "answer": "Harry Potter and the Prisoner of Azkaban",
+    "rank": null,
+    "latency_ms": 56.2,
+    "top10": [
+      "About Time (2013)  score=0.673",
+      "Godfather (1991)  score=0.669",
+      "Time After Time (1985)  score=0.666",
+      "The Thief Lord (2006)  score=0.664",
+      "The Wizards Return: Alex vs. Alex (2013)  score=0.660",
+      "30 Years Ago (2016)  score=0.657",
+      "Vengeance Is Mine (2021)  score=0.657",
+      "Harry Potter and the Philosopher's Stone (2001)  score=0.656",
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)  score=0.655",
+      "A Walk in Time (1996)  score=0.653"
+    ]
+  },
+  {
+    "qid": "q40",
+    "type": "judge",
+    "query": "the batman film where the joker burns a pile of money and makes two ferries choose",
+    "answer": "The Dark Knight",
+    "rank": null,
+    "latency_ms": 56.4,
+    "top10": [
+      "The Debt (1999)  score=0.648",
+      "The Transporter Refueled (2015)  score=0.648",
+      "Frauds (1993)  score=0.647",
+      "City of Scars (2010)  score=0.645",
+      "Delusion (1991)  score=0.644",
+      "Stretch (2014)  score=0.640",
+      "The Brain (1969)  score=0.635",
+      "We're Talking Serious Money (1992)  score=0.634",
+      "Things Are Tough All Over (1982)  score=0.631",
+      "The Big Gamble (1961)  score=0.630"
+    ]
+  },
+  {
+    "qid": "q41",
+    "type": "judge",
+    "query": "a couple pays a company to erase their memories of each other after a breakup",
+    "answer": "Eternal Sunshine of the Spotless Mind",
+    "rank": null,
+    "latency_ms": 61.4,
+    "top10": [
+      "Sztos (1997)  score=0.681",
+      "One Day (2016)  score=0.666",
+      "You Can't Save Yourself Alone (2015)  score=0.664",
+      "Pesaa Varigal (2025)  score=0.664",
+      "Dreams for Sale (2012)  score=0.662",
+      "Dreamfools (2018)  score=0.661",
+      "Delete My Love (2014)  score=0.660",
+      "Partnership Unlimited (2022)  score=0.656",
+      "The Love Punch (2014)  score=0.656",
+      "A Habit of Breaking-Up (2013)  score=0.655"
+    ]
+  },
+  {
+    "qid": "q42",
+    "type": "judge",
+    "query": "the hindi remake where a father hides a body under a police station",
+    "answer": "Drishyam",
+    "rank": null,
+    "latency_ms": 59.4,
+    "top10": [
+      "Paape Naa Pranam (1998)  score=0.712",
+      "Pataas (2015)  score=0.705",
+      "Siruthai (2011)  score=0.705",
+      "Ugly (2013)  score=0.703",
+      "Shankar Dada (1976)  score=0.700",
+      "Right (2025)  score=0.700",
+      "Kalinga (1980)  score=0.693",
+      "Zindagani (1986)  score=0.689",
+      "Zanjeer (1973)  score=0.688",
+      "Sattam Oru Iruttarai (1981)  score=0.686"
+    ]
+  },
+  {
+    "qid": "q43",
+    "type": "judge",
+    "query": "the jurassic park sequel where a T-rex runs through the streets of San Diego",
+    "answer": "The Lost World: Jurassic Park",
+    "rank": 1,
+    "latency_ms": 77.8,
+    "top10": [
+      "The Lost World: Jurassic Park (1997)  score=0.701",
+      "Jurassic World (2015)  score=0.693",
+      "T-Rex: Back to the Cretaceous (1998)  score=0.688",
+      "Prehistoric Park (2006)  score=0.675",
+      "Theodore Rex (1995)  score=0.674",
+      "Jurassic Park (1993)  score=0.674",
+      "Carnosaur 2 (1995)  score=0.664",
+      "Jurassic World: Fallen Kingdom (2018)  score=0.660",
+      "Tammy and the T-Rex (1994)  score=0.659",
+      "Jurassic Park III (2001)  score=0.656"
+    ]
+  },
+  {
+    "qid": "q44",
+    "type": "judge",
+    "query": "the first boxing film where the underdog loses on points but goes the distance",
+    "answer": "Rocky",
+    "rank": null,
+    "latency_ms": 62.1,
+    "top10": [
+      "Boxer (1965)  score=0.732",
+      "The Champion (1915)  score=0.694",
+      "Two Fists, One Heart (2009)  score=0.685",
+      "The Harder They Fall (1956)  score=0.684",
+      "The Challenger (2015)  score=0.673",
+      "Leonard-Cushing Fight (1894)  score=0.673",
+      "Champion (1949)  score=0.671",
+      "The Hammer (2007)  score=0.669",
+      "Streets of Gold (1986)  score=0.668",
+      "Counterpunch (2017)  score=0.667"
+    ]
+  },
+  {
+    "qid": "q45",
+    "type": "judge",
+    "query": "the back to the future film set in the wild west in 1885",
+    "answer": "Back to the Future Part III",
+    "rank": 1,
+    "latency_ms": 64.2,
+    "top10": [
+      "Back to the Future Part III (1990)  score=0.724",
+      "Back to the Future (1985)  score=0.664",
+      "Back Street (1941)  score=0.655",
+      "Canyon Passage (1946)  score=0.647",
+      "Tumbleweeds (1925)  score=0.646",
+      "Ivan Vasilievich: Back to the Future (1973)  score=0.641",
+      "The Red Pony (1949)  score=0.637",
+      "Once Upon a Time in the West (1968)  score=0.637",
+      "The Wind's Fierce (1970)  score=0.636",
+      "Hearts of the West (1975)  score=0.634"
+    ]
+  },
+  {
+    "qid": "q46",
+    "type": "judge",
+    "query": "the matrix sequel with the highway chase and the meeting with the Architect",
+    "answer": "The Matrix Reloaded",
+    "rank": 3,
+    "latency_ms": 63.8,
+    "top10": [
+      "The Architect (2006)  score=0.666",
+      "Motorway (2012)  score=0.648",
+      "The Matrix Reloaded (2003)  score=0.637",
+      "The Matrix Revolutions: Neo Realism - Evolution of Bullet Time (2004)  score=0.637",
+      "The Last Chase (1981)  score=0.630",
+      "The Car: Road to Revenge (2019)  score=0.623",
+      "The Matrix Recalibrated (2004)  score=0.618",
+      "Matrix (1998)  score=0.618",
+      "The Learning Curve (2001)  score=0.616",
+      "Bullitt (1968)  score=0.615"
+    ]
+  },
+  {
+    "qid": "q47",
+    "type": "judge",
+    "query": "the avengers film where Thanos snaps his fingers and half of everyone disappears",
+    "answer": "Avengers: Infinity War",
+    "rank": 6,
+    "latency_ms": 47.5,
+    "top10": [
+      "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)  score=0.635",
+      "Shamelessly She-Hulk (2009)  score=0.634",
+      "Ant-Man (2015)  score=0.632",
+      "Avengers, TheThe Avengers (2012)  score=0.630",
+      "Marvel One-Shot: The Consultant (2011)  score=0.626",
+      "Avengers: Infinity War (2018)  score=0.624",
+      "The Avengers (2012)  score=0.621",
+      "The Vanished World of Gloves (1982)  score=0.617",
+      "Avengers: Endgame (2019)  score=0.615",
+      "The Avenger with a Flute (1986)  score=0.613"
+    ]
+  },
+  {
+    "qid": "q48",
+    "type": "judge",
+    "query": "the first chapter where Rocky goes undercover into the gold mines",
+    "answer": "K.G.F: Chapter 1",
+    "rank": null,
+    "latency_ms": 63.3,
+    "top10": [
+      "K.G.F: Chapter 2 (2022)  score=0.722",
+      "The Spoilers (1955)  score=0.701",
+      "Steel Against the Sky (1941)  score=0.695",
+      "Rocky (2013)  score=0.685",
+      "Rocky (2021)  score=0.676",
+      "Padikathavan (2009)  score=0.675",
+      "Smuggler's Island (1951)  score=0.673",
+      "Git Along Little Dogies (1937)  score=0.673",
+      "The Golden Eye (1948)  score=0.669",
+      "The Raiders (1952)  score=0.666"
+    ]
+  },
+  {
+    "qid": "q49",
+    "type": "judge",
+    "query": "the shrek film where he meets Fiona's parents in Far Far Away",
+    "answer": "Shrek 2",
+    "rank": 2,
+    "latency_ms": 61.2,
+    "top10": [
+      "Shrek Forever After (2010)  score=0.737",
+      "Shrek 2 (2004)  score=0.722",
+      "The Ghost of Lord Farquaad (2004)  score=0.700",
+      "Far Far Away Idol (2004)  score=0.681",
+      "Shrek Stories (2013)  score=0.673",
+      "Shrek the Third (2007)  score=0.648",
+      "Falling far Marrakech (2011)  score=0.647",
+      "Neither the Sea Nor the Sand (1972)  score=0.644",
+      "This Is My Father (1998)  score=0.643",
+      "Far from the Tree (2021)  score=0.642"
+    ]
+  },
+  {
+    "qid": "q50",
+    "type": "judge",
+    "query": "the pirates film where they rescue Jack Sparrow from Davy Jones' Locker",
+    "answer": "Pirates of the Caribbean: At World's End",
+    "rank": null,
+    "latency_ms": 50.2,
+    "top10": [
+      "Pirates of the Caribbean: Dead Man's Chest (2006)  score=0.691",
+      "The Sea Hound (1947)  score=0.680",
+      "Pirate Treasure (1934)  score=0.679",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)  score=0.675",
+      "Davey Jones' Locker (1900)  score=0.670",
+      "Isolation (2015)  score=0.667",
+      "The Love Nest (1923)  score=0.664",
+      "The Black Pirate (1926)  score=0.663",
+      "The Sea Shall Not Have Them (1954)  score=0.661",
+      "Plunder and Lightning (1990)  score=0.661"
+    ]
+  }
+]
