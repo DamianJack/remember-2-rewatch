@@ -22,6 +22,7 @@ from common import make_loose_key, make_title_key  # noqa: E402
 
 # ---------- SETTINGS ----------
 RERANKER = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+# RERANKER = "BAAI/bge-reranker-base"
 
 MOVIES = "data/merged/movies.json"
 DENSE_INDEX = "data/index/dense_bge_small.npy"
@@ -54,6 +55,15 @@ class HybridSearch:
                                        stopwords="en", show_progress=False), show_progress=False)
         # Dense
         self.emb = np.load(DENSE_INDEX).astype(np.float32)
+        ids_file = DENSE_INDEX.replace(".npy", "_ids.json")
+        try:
+            with open(ids_file, encoding="utf-8") as f:
+                same = json.load(f) == [m["id"] for m in self.movies]
+        except FileNotFoundError:
+            same = False
+        if not same:
+            sys.exit("The dense fingerprints don't match movies.json (it changed). "
+                     "Run  python search/dense.py  first to rebuild them.")
         self.dense_model = SentenceTransformer(DENSE_MODEL, device=device)
         # Reranker
         self.reranker = CrossEncoder(RERANKER, device=device, max_length=512)

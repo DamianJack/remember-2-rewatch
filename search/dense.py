@@ -80,19 +80,30 @@ print(f"Model: {MODEL} on {device}")
 
 
 # ---------- Step 4: make the fingerprints (only the first time), or load them ----------
-if os.path.exists(INDEX):
+IDS_FILE = INDEX.replace(".npy", "_ids.json")   # which movie each fingerprint belongs to
+movie_ids = [m["id"] for m in movies]
+saved_ids = None
+if os.path.exists(IDS_FILE):
+    with open(IDS_FILE, encoding="utf-8") as f:
+        saved_ids = json.load(f)
+
+if os.path.exists(INDEX) and saved_ids == movie_ids:
     emb = np.load(INDEX).astype(np.float32)
     print(f"Loaded fingerprints from {INDEX}")
-    if len(emb) != len(movies):
-        sys.exit("The saved fingerprints don't match movies.json. Delete "
-                 f"{INDEX} and run again to rebuild them.")
 else:
-    print("Making fingerprints for all movies (first run only, this takes a while)...")
+    if os.path.exists(INDEX):
+        print("movies.json has changed since the fingerprints were made -> rebuilding them.")
+    emb = None
+
+if emb is None:
+    print("Making fingerprints for all movies (only when movies.json is new or changed)...")
     t0 = time.perf_counter()
     emb = model.encode(texts, batch_size=128, show_progress_bar=True,
                        normalize_embeddings=True, convert_to_numpy=True).astype(np.float32)
     os.makedirs(INDEX_DIR, exist_ok=True)
     np.save(INDEX, emb.astype(np.float16))     # float16 = half the file size, same results
+    with open(IDS_FILE, "w", encoding="utf-8") as f:
+        json.dump(movie_ids, f)
     print(f"Made and saved {emb.shape[0]} fingerprints of {emb.shape[1]} numbers "
           f"in {(time.perf_counter() - t0) / 60:.1f} min")
 

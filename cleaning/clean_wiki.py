@@ -100,10 +100,12 @@ df = drop(df, ~df.duplicated(["title_key", "year", "origin"]), "duplicate")
 df["has_brackets"] = df["title"].str.contains(r"\(", regex=True)
 df = df.sort_values(["has_brackets", "year"])
 
+# The main TITLE comes from the row chosen above, but the PLOT is the longest one in the group
 extra = df.groupby("wiki_url").agg(
     all_titles=("title", lambda t: sorted(set(t))),
     all_years=("year", lambda y: sorted(set(int(v) for v in y))),
     origins=("origin", lambda o: sorted(set(o))),
+    longest_plot=("plot", lambda p: max(p, key=len)),
 ).reset_index()
 
 before = len(df)
@@ -112,7 +114,9 @@ df["other_titles"] = [[t for t in titles if t != main]
                       for titles, main in zip(df["all_titles"], df["title"])]
 df["year"] = [years[0] for years in df["all_years"]]          # main year = earliest
 df["other_years"] = [years[1:] for years in df["all_years"]]
-df = df.drop(columns=["origin", "all_titles", "all_years", "has_brackets"])
+df["plot"] = df["longest_plot"]
+df["plot_words"] = count_words(df["plot"])
+df = df.drop(columns=["origin", "all_titles", "all_years", "has_brackets", "longest_plot"])
 print(f"  removed {before - len(df):>6}  (same Wikipedia page)")
 
 

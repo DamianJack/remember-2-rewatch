@@ -62,16 +62,34 @@ def save_json(df, path):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print("\nSaved to", path)
 
+
 def make_loose_key(title_key):
     """
     A looser version of the title key, for spelling differences in
     Indian (and other) titles written in English letters.
-    Only used in the merge, as a second try when the normal key doesn't match.
+    Used in the merge as a second try when the normal key doesn't match.
+    Numbers are KEPT here (so "paranormal activity 2" != "paranormal activity 3").
     """
     k = title_key
     k = k.replace("ee", "i").replace("oo", "u")   # Deewana = Diwana, Phoolon = Phulon
     k = re.sub(r"ie\b", "i", k)                    # Kabhie = Kabhi (at the end of a word)
     k = k.replace("iya", "ia")                     # Dulhaniya = Dulhania
     k = re.sub(r"(\w)\1+", r"\1", k)               # double letters -> one: Baahubali = Bahubali
-    k = re.sub(r"\s*\b\d\b\s*", " ", k).strip()     # "bahubali 2 the conclusion" = "bahubali the conclusion"   
     return k
+
+
+def make_number_free_key(loose_key):
+    """
+    The loose key with single numbers removed: "bahubali 2 the conclusion" -> "bahubali the conclusion".
+    Some sources write a sequel number, others don't.
+    Returns None when this would not help or would be unsafe:
+      - the title has no single number (nothing to remove)
+      - fewer than 2 words would be left (e.g. "9" or "up 2" -> too short to be sure)
+    The merge uses this key ONLY for the SAME year, never for 1 year apart,
+    because sequels are often 1 year apart (Paranormal Activity 2 = 2010, 3 = 2011).
+    """
+    stripped = re.sub(r"\s*\b\d\b\s*", " ", loose_key)
+    stripped = re.sub(r"\s+", " ", stripped).strip()
+    if stripped == loose_key or len(stripped.split()) < 2:
+        return None
+    return stripped

@@ -5,7 +5,7 @@
     "query": "Hogwarts first year, Voldemort, Quidditch and the philosopher's stone",
     "answer": "Harry Potter and the Philosopher's Stone",
     "rank": 1,
-    "latency_ms": 173.0,
+    "latency_ms": 204.4,
     "top10": [
       "Harry Potter and the Philosopher's Stone (2001)  score=0.741",
       "Harry Potter and the Order of the Phoenix (2007)  score=0.698",
@@ -25,7 +25,7 @@
     "query": "Simba, Mufasa and Scar at Pride Rock",
     "answer": "The Lion King",
     "rank": null,
-    "latency_ms": 50.0,
+    "latency_ms": 40.4,
     "top10": [
       "The Lion King (2019)  score=0.651",
       "The Lion King II: Simba's Pride (1998)  score=0.615",
@@ -45,7 +45,7 @@
     "query": "Jack and Rose on the ship that hits an iceberg",
     "answer": "Titanic",
     "rank": 4,
-    "latency_ms": 43.0,
+    "latency_ms": 19.6,
     "top10": [
       "Captains Courageous (1937)  score=0.679",
       "The Icebreaker (2016)  score=0.676",
@@ -65,7 +65,7 @@
     "query": "Neo takes the red pill, Morpheus, Trinity and Agent Smith",
     "answer": "The Matrix",
     "rank": null,
-    "latency_ms": 61.7,
+    "latency_ms": 19.7,
     "top10": [
       "The Matrix Reloaded (2003)  score=0.695",
       "The Matrix Resurrections (2021)  score=0.654",
@@ -85,7 +85,7 @@
     "query": "why Kattappa killed Baahubali, Mahishmati and Devasena",
     "answer": "Baahubali 2: The Conclusion",
     "rank": null,
-    "latency_ms": 55.1,
+    "latency_ms": 19.1,
     "top10": [
       "Samay (2024)  score=0.707",
       "Kattukuthira (1990)  score=0.696",
@@ -105,7 +105,7 @@
     "query": "Raj and Simran meet on a train trip in Europe, mustard fields in Punjab",
     "answer": "Dilwale Dulhania Le Jayenge",
     "rank": null,
-    "latency_ms": 48.2,
+    "latency_ms": 19.0,
     "top10": [
       "Train to Pakistan (1998)  score=0.647",
       "The Passengers (2024)  score=0.637",
@@ -125,7 +125,7 @@
     "query": "Gabbar Singh, Jai and Veeru, Thakur in Ramgarh",
     "answer": "Sholay",
     "rank": null,
-    "latency_ms": 53.2,
+    "latency_ms": 22.6,
     "top10": [
       "Sholay 3D (2014)  score=0.641",
       "Bhai Thakur (2000)  score=0.639",
@@ -145,7 +145,7 @@
     "query": "Rancho, Farhan and Raju at an engineering college with the director Virus",
     "answer": "3 Idiots",
     "rank": 8,
-    "latency_ms": 59.8,
+    "latency_ms": 21.0,
     "top10": [
       "Three Idiots (2009)  score=0.716",
       "1st Rank Raju (2019)  score=0.659",
@@ -165,7 +165,7 @@
     "query": "Dom Cobb, dream within a dream, spinning top totem",
     "answer": "Inception",
     "rank": null,
-    "latency_ms": 44.2,
+    "latency_ms": 22.7,
     "top10": [
       "Spin (2005)  score=0.609",
       "Totem (2017)  score=0.604",
@@ -185,7 +185,7 @@
     "query": "Hannibal Lecter helps FBI trainee Clarice Starling",
     "answer": "The Silence of the Lambs",
     "rank": 1,
-    "latency_ms": 75.0,
+    "latency_ms": 25.3,
     "top10": [
       "The Silence of the Lambs (1991)  score=0.722",
       "Hannibal (2001)  score=0.664",
@@ -205,7 +205,7 @@
     "query": "Marty McFly, DeLorean, Doc Brown, 1955",
     "answer": "Back to the Future",
     "rank": 1,
-    "latency_ms": 26.6,
+    "latency_ms": 24.7,
     "top10": [
       "Back to the Future (1985)  score=0.675",
       "Back in Time (2015)  score=0.638",
@@ -225,7 +225,7 @@
     "query": "Wakanda, vibranium, T'Challa and Killmonger",
     "answer": "Black Panther",
     "rank": null,
-    "latency_ms": 29.0,
+    "latency_ms": 25.1,
     "top10": [
       "Black Panther (2010)  score=0.683",
       "Ultimate Avengers 2 (2006)  score=0.682",
@@ -245,18 +245,18 @@
     "query": "Bhuvan and villagers play cricket against British officers in Champaner to stop the tax",
     "answer": "Lagaan",
     "rank": null,
-    "latency_ms": 32.4,
+    "latency_ms": 24.3,
     "top10": [
       "Andhadhi (2015)  score=0.625",
       "Bhai Bhai (1997)  score=0.621",
       "Officer (1950)  score=0.617",
       "Bharat Ka Khazana (2010)  score=0.613",
       "Paradh (2010)  score=0.609",
+      "Neeraba Jhada (1984)  score=0.609",
       "Mrigayaa (1976)  score=0.607",
       "Jwalamukhi (2000)  score=0.604",
       "Bhasmasur (2017)  score=0.604",
-      "Bhalwan Singh (2017)  score=0.603",
-      "How India Stole and Killed Cricket (2023)  score=0.602"
+      "Bhalwan Singh (2017)  score=0.603"
     ]
   },
   {
@@ -265,7 +265,7 @@
     "query": "Pushpa Raj red sandalwood smuggler",
     "answer": "Pushpa: The Rise",
     "rank": 1,
-    "latency_ms": 53.9,
+    "latency_ms": 25.7,
     "top10": [
       "Pushpa: The Rise - Part 1 (2021)  score=0.865",
       "Red Sandal Wood (2023)  score=0.756",
@@ -285,7 +285,7 @@
     "query": "Rocky Balboa, Philadelphia boxer, fight against Apollo Creed",
     "answer": "Rocky",
     "rank": 5,
-    "latency_ms": 54.6,
+    "latency_ms": 22.7,
     "top10": [
       "Creed (2015)  score=0.787",
       "Rocky III (1982)  score=0.737",
@@ -305,7 +305,7 @@
     "query": "Vito Corleone and his son Michael, mafia family",
     "answer": "The Godfather",
     "rank": 3,
-    "latency_ms": 60.7,
+    "latency_ms": 20.2,
     "top10": [
       "The Godfather Part II (1974)  score=0.747",
       "Mafia Inc. (2020)  score=0.695",
@@ -325,7 +325,7 @@
     "query": "Woody, Buzz Lightyear and Andy's toys",
     "answer": "Toy Story",
     "rank": 2,
-    "latency_ms": 56.4,
+    "latency_ms": 22.8,
     "top10": [
       "Toy Story 2 (1999)  score=0.711",
       "Toy Story (1995)  score=0.706",
@@ -345,7 +345,7 @@
     "query": "a lion cub runs away after his uncle kills his father and later comes back to become king",
     "answer": "The Lion King",
     "rank": 2,
-    "latency_ms": 52.7,
+    "latency_ms": 23.9,
     "top10": [
       "King (2022)  score=0.729",
       "The Lion King (1994)  score=0.712",
@@ -365,7 +365,7 @@
     "query": "a man who can't make new memories tattoos clues on his body to find his wife's killer",
     "answer": "Memento",
     "rank": 6,
-    "latency_ms": 78.0,
+    "latency_ms": 29.9,
     "top10": [
       "Mystery of Tattoo (2023)  score=0.726",
       "Uff (2020)  score=0.695",
@@ -385,7 +385,7 @@
     "query": "an old man ties thousands of balloons to his house and flies away, with a young boy scout on the porch",
     "answer": "Up",
     "rank": null,
-    "latency_ms": 223.1,
+    "latency_ms": 28.1,
     "top10": [
       "Is Anybody There? (2009)  score=0.560",
       "Last Chants for a Slow Dance (1977)  score=0.556",
@@ -405,7 +405,7 @@
     "query": "a family man fools the police about dates to cover up a crime his daughter committed",
     "answer": "Drishyam",
     "rank": null,
-    "latency_ms": 60.6,
+    "latency_ms": 22.0,
     "top10": [
       "That Day (2003)  score=0.689",
       "Winterset (1936)  score=0.683",
@@ -425,7 +425,7 @@
     "query": "a poor family slowly tricks their way into working for a rich family in their house",
     "answer": "Parasite",
     "rank": null,
-    "latency_ms": 59.2,
+    "latency_ms": 22.7,
     "top10": [
       "A House of Time Traps (2018)  score=0.725",
       "The Groom Gets A Bride (1984)  score=0.699",
@@ -445,7 +445,7 @@
     "query": "a boy survives a shipwreck and shares a lifeboat with a tiger in the ocean",
     "answer": "Life of Pi",
     "rank": null,
-    "latency_ms": 45.7,
+    "latency_ms": 23.5,
     "top10": [
       "The Tiger Is Still Alive: Sandokan to the Rescue (1977)  score=0.625",
       "Tiger Boy (2012)  score=0.619",
@@ -465,7 +465,7 @@
     "query": "a weatherman lives the same day again and again in a small town",
     "answer": "Groundhog Day",
     "rank": 1,
-    "latency_ms": 59.6,
+    "latency_ms": 23.8,
     "top10": [
       "Groundhog Day (1993)  score=0.657",
       "The Weather Man (2005)  score=0.651",
@@ -485,7 +485,7 @@
     "query": "a lonely robot cleaning up an abandoned dirty earth falls in love",
     "answer": "WALL-E",
     "rank": null,
-    "latency_ms": 56.9,
+    "latency_ms": 24.9,
     "top10": [
       "Red Rover (2018)  score=0.689",
       "Everything Beautiful Is Far Away (2017)  score=0.686",
@@ -505,7 +505,7 @@
     "query": "an astronaut stranded alone on Mars grows potatoes to survive",
     "answer": "The Martian",
     "rank": 1,
-    "latency_ms": 88.7,
+    "latency_ms": 20.9,
     "top10": [
       "The Martian (2015)  score=0.700",
       "Love (2011)  score=0.662",
@@ -525,7 +525,7 @@
     "query": "an art teacher at a boarding school finds out a struggling boy is dyslexic and helps him",
     "answer": "Taare Zameen Par",
     "rank": null,
-    "latency_ms": 53.4,
+    "latency_ms": 21.8,
     "top10": [
       "Я делаю шаг (2023)  score=0.666",
       "Front of the Class (2008)  score=0.658",
@@ -545,7 +545,7 @@
     "query": "a former wrestler trains his daughters to win gold medals for the country",
     "answer": "Dangal",
     "rank": null,
-    "latency_ms": 64.2,
+    "latency_ms": 27.8,
     "top10": [
       "Champion (2018)  score=0.656",
       "Son of Sofia (2017)  score=0.639",
@@ -565,7 +565,7 @@
     "query": "a boy from the slums wins a quiz show because each question links to his life",
     "answer": "Slumdog Millionaire",
     "rank": 3,
-    "latency_ms": 55.2,
+    "latency_ms": 21.1,
     "top10": [
       "Colourkite (2015)  score=0.667",
       "Slumdog Kodisvaran (2018)  score=0.650",
@@ -585,7 +585,7 @@
     "query": "a little alien left behind on earth becomes friends with a boy who helps him phone home",
     "answer": "E.T. the Extra-Terrestrial",
     "rank": 5,
-    "latency_ms": 59.4,
+    "latency_ms": 25.6,
     "top10": [
       "Lit­tle Allan — The Human Antenna (2022)  score=0.720",
       "Luis and the Aliens (2018)  score=0.700",
@@ -605,7 +605,7 @@
     "query": "a theme park with real dinosaurs on an island goes wrong when the animals escape",
     "answer": "Jurassic Park",
     "rank": 1,
-    "latency_ms": 55.8,
+    "latency_ms": 23.3,
     "top10": [
       "Jurassic Park (1993)  score=0.741",
       "Dinosaur Island (2002)  score=0.728",
@@ -625,7 +625,7 @@
     "query": "a banker wrongly sent to prison for killing his wife digs a tunnel for years and escapes",
     "answer": "The Shawshank Redemption",
     "rank": null,
-    "latency_ms": 95.4,
+    "latency_ms": 26.2,
     "top10": [
       "Cruel & Unusual (2014)  score=0.680",
       "Rob the Bank (1964)  score=0.678",
@@ -645,7 +645,7 @@
     "query": "an alien lands in India, loses the remote for his spaceship and starts questioning religion",
     "answer": "PK",
     "rank": 1,
-    "latency_ms": 84.1,
+    "latency_ms": 23.6,
     "top10": [
       "PK (2014)  score=0.673",
       "Objection My God (2018)  score=0.661",
@@ -665,7 +665,7 @@
     "query": "a girl enters a world of spirits where her parents are turned into pigs",
     "answer": "Spirited Away",
     "rank": null,
-    "latency_ms": 59.8,
+    "latency_ms": 20.8,
     "top10": [
       "Thinker (2023)  score=0.722",
       "Badha (2006)  score=0.708",
@@ -685,7 +685,7 @@
     "query": "a murdered man is reborn as a housefly and takes revenge on his killer",
     "answer": "Eega",
     "rank": null,
-    "latency_ms": 61.4,
+    "latency_ms": 23.2,
     "top10": [
       "The Mangler Reborn (2005)  score=0.712",
       "Kanoon (1994)  score=0.687",
@@ -705,7 +705,7 @@
     "query": "the second part, where we finally learn why the loyal servant killed the hero",
     "answer": "Baahubali 2: The Conclusion",
     "rank": null,
-    "latency_ms": 53.0,
+    "latency_ms": 22.5,
     "top10": [
       "Alakadalinakkare (1984)  score=0.656",
       "Ponniyin Selvan: Part II (2023)  score=0.655",
@@ -725,7 +725,7 @@
     "query": "the toy story where the toys end up in a daycare and almost burn at a garbage dump",
     "answer": "Toy Story 3",
     "rank": null,
-    "latency_ms": 83.7,
+    "latency_ms": 27.7,
     "top10": [
       "For Pete's Sake! (1934)  score=0.689",
       "Trash (2020)  score=0.687",
@@ -745,7 +745,7 @@
     "query": "the godfather film that shows young Vito's early life in New York next to Michael's story",
     "answer": "The Godfather Part II",
     "rank": 1,
-    "latency_ms": 102.4,
+    "latency_ms": 22.0,
     "top10": [
       "The Godfather Part II (1974)  score=0.780",
       "Flight of the Innocent (1992)  score=0.741",
@@ -765,7 +765,7 @@
     "query": "the harry potter film where they go back in time with a time turner to save his godfather",
     "answer": "Harry Potter and the Prisoner of Azkaban",
     "rank": null,
-    "latency_ms": 56.2,
+    "latency_ms": 24.7,
     "top10": [
       "About Time (2013)  score=0.673",
       "Godfather (1991)  score=0.669",
@@ -785,7 +785,7 @@
     "query": "the batman film where the joker burns a pile of money and makes two ferries choose",
     "answer": "The Dark Knight",
     "rank": null,
-    "latency_ms": 56.4,
+    "latency_ms": 23.4,
     "top10": [
       "The Debt (1999)  score=0.648",
       "The Transporter Refueled (2015)  score=0.648",
@@ -805,7 +805,7 @@
     "query": "a couple pays a company to erase their memories of each other after a breakup",
     "answer": "Eternal Sunshine of the Spotless Mind",
     "rank": null,
-    "latency_ms": 61.4,
+    "latency_ms": 23.3,
     "top10": [
       "Sztos (1997)  score=0.681",
       "One Day (2016)  score=0.666",
@@ -825,7 +825,7 @@
     "query": "the hindi remake where a father hides a body under a police station",
     "answer": "Drishyam",
     "rank": null,
-    "latency_ms": 59.4,
+    "latency_ms": 23.9,
     "top10": [
       "Paape Naa Pranam (1998)  score=0.712",
       "Pataas (2015)  score=0.705",
@@ -845,7 +845,7 @@
     "query": "the jurassic park sequel where a T-rex runs through the streets of San Diego",
     "answer": "The Lost World: Jurassic Park",
     "rank": 1,
-    "latency_ms": 77.8,
+    "latency_ms": 23.3,
     "top10": [
       "The Lost World: Jurassic Park (1997)  score=0.701",
       "Jurassic World (2015)  score=0.693",
@@ -865,7 +865,7 @@
     "query": "the first boxing film where the underdog loses on points but goes the distance",
     "answer": "Rocky",
     "rank": null,
-    "latency_ms": 62.1,
+    "latency_ms": 25.5,
     "top10": [
       "Boxer (1965)  score=0.732",
       "The Champion (1915)  score=0.694",
@@ -885,7 +885,7 @@
     "query": "the back to the future film set in the wild west in 1885",
     "answer": "Back to the Future Part III",
     "rank": 1,
-    "latency_ms": 64.2,
+    "latency_ms": 26.7,
     "top10": [
       "Back to the Future Part III (1990)  score=0.724",
       "Back to the Future (1985)  score=0.664",
@@ -905,7 +905,7 @@
     "query": "the matrix sequel with the highway chase and the meeting with the Architect",
     "answer": "The Matrix Reloaded",
     "rank": 3,
-    "latency_ms": 63.8,
+    "latency_ms": 23.4,
     "top10": [
       "The Architect (2006)  score=0.666",
       "Motorway (2012)  score=0.648",
@@ -925,7 +925,7 @@
     "query": "the avengers film where Thanos snaps his fingers and half of everyone disappears",
     "answer": "Avengers: Infinity War",
     "rank": 6,
-    "latency_ms": 47.5,
+    "latency_ms": 22.5,
     "top10": [
       "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)  score=0.635",
       "Shamelessly She-Hulk (2009)  score=0.634",
@@ -945,7 +945,7 @@
     "query": "the first chapter where Rocky goes undercover into the gold mines",
     "answer": "K.G.F: Chapter 1",
     "rank": null,
-    "latency_ms": 63.3,
+    "latency_ms": 23.6,
     "top10": [
       "K.G.F: Chapter 2 (2022)  score=0.722",
       "The Spoilers (1955)  score=0.701",
@@ -965,7 +965,7 @@
     "query": "the shrek film where he meets Fiona's parents in Far Far Away",
     "answer": "Shrek 2",
     "rank": 2,
-    "latency_ms": 61.2,
+    "latency_ms": 22.2,
     "top10": [
       "Shrek Forever After (2010)  score=0.737",
       "Shrek 2 (2004)  score=0.722",
@@ -985,7 +985,7 @@
     "query": "the pirates film where they rescue Jack Sparrow from Davy Jones' Locker",
     "answer": "Pirates of the Caribbean: At World's End",
     "rank": null,
-    "latency_ms": 50.2,
+    "latency_ms": 22.1,
     "top10": [
       "Pirates of the Caribbean: Dead Man's Chest (2006)  score=0.691",
       "The Sea Hound (1947)  score=0.680",

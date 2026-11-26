@@ -11,6 +11,8 @@ How we decide "same movie":
   1. same title key (main title OR any other title)
   2. year the same, or 1 year apart (release dates differ by country)
      - very short titles ("up", "11") must have the SAME year, to avoid wrong pairs
+     - sequel numbers are ignored ONLY in the same year ("Bāhubali 2: The Conclusion" =
+       "Baahubali: The Conclusion", 2017), never 1 year apart (Paranormal Activity 2 vs 3)
   3. if both have language info, they must share at least one language
      (keeps remakes apart, e.g. Drishyam Malayalam vs Drishyam Hindi)
      - exception: two Indian languages in the SAME year count as shared (dubbed versions)
@@ -64,6 +66,7 @@ def add(source, movie, title_keys, langs):
         "movie": movie,
         "keys": {k for k in title_keys if k},
         "loose_keys": {make_loose_key(k) for k in title_keys if k},
+        "free_keys": {f for f in (make_number_free_key(make_loose_key(k)) for k in title_keys if k) if f},
         "year": movie["year"],
         "langs": {norm_lang(l) for l in langs if l},
     })
@@ -71,7 +74,7 @@ def add(source, movie, title_keys, langs):
 # title_key for other titles, made the same way as in cleaning
 import sys
 sys.path.insert(0, "cleaning")
-from common import make_loose_key, make_title_key  # noqa: E402
+from common import make_loose_key, make_number_free_key, make_title_key  # noqa: E402
 
 for m in load("wiki_clean.json"):
     keys = [m["title_key"]] + [make_title_key(t) for t in m["other_titles"]]
@@ -83,8 +86,11 @@ for m in load("cmu_clean.json"):
 
 for m in load("tmdb_clean.json"):
     keys = [m["title_key"]] + [make_title_key(t) for t in m["other_titles"]]
-    # spoken languages can be long lists; the original language is the safest signal
-    add("tmdb", m, keys, [m["original_language"]] + m["languages"])
+    # For the "same movie?" check we use ONLY the original language.
+    # Spoken languages are too broad: a Hindi remake that lists English as a spoken
+    # language would otherwise "share a language" with an English original.
+    # (All spoken languages are still kept in the merged output.)
+    add("tmdb", m, keys, [m["original_language"]])
 
 print("Rows loaded:", len(rows),
       {s: sum(r["source"] == s for r in rows) for s in ("wikipedia", "cmu", "tmdb")})
@@ -102,6 +108,14 @@ loose_index = defaultdict(list)
 for i, r in enumerate(rows):
     for k in r["loose_keys"]:
         loose_index[(k, r["year"])].append(i)
+
+# A third index for the sequel-number pass: every row's loose keys AND number-free keys.
+# A title WITH a number ("bahubali 2 the conclusion" -> number-free "bahubali the conclusion")
+# can then find a title WITHOUT one ("Baahubali: The Conclusion" -> loose "bahubali the conclusion").
+free_index = defaultdict(list)
+for i, r in enumerate(rows):
+    for k in r["loose_keys"] | r["free_keys"]:
+        free_index[(k, r["year"])].append(i)
 
 # "Union-find": every row starts as its own group; matching rows are joined.
 parent = list(range(len(rows)))
@@ -138,13 +152,16 @@ def try_join(a, b, same_year):
     return True
 
 # Most reliable first: exact title + same year, then exact title + 1 year apart,
-# then the loose spelling (same year, then 1 year apart)
-joins = {"same year": 0, "1 year apart": 0, "loose spelling, same year": 0, "loose spelling, 1 year apart": 0}
+# then the loose spelling (same year, then 1 year apart),
+# and last the number-free key, ONLY for the same year (sequels are often 1 year apart)
+joins = {"same year": 0, "1 year apart": 0, "loose spelling, same year": 0,
+         "loose spelling, 1 year apart": 0, "sequel number ignored, same year": 0}
 passes = [
     ((0,), "same year", "keys", index),
     ((-1, 1), "1 year apart", "keys", index),
     ((0,), "loose spelling, same year", "loose_keys", loose_index),
     ((-1, 1), "loose spelling, 1 year apart", "loose_keys", loose_index),
+    ((0,), "sequel number ignored, same year", "free_keys", free_index),
 ]
 for offsets, label, key_field, idx in passes:
     for i, r in enumerate(rows):
