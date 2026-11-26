@@ -221,7 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-git push shared remember-2-rewatch-sjoshi2
+
 # ---- Project-specific ----
 
 # Datasets (too big for GitHub; download links are in the README)
