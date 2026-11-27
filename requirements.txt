@@ -1,0 +1,9 @@
+# Data cleaning
+pandas>=2.0
+ftfy>=6.0
+
+# Added later, when we get to those steps (remove the # to install)
+# bm25s            # word search (BM25)
+# sentence-transformers  # meaning search + reranker
+# fastapi          # the /search web API
+# uvicorn          # runs the API

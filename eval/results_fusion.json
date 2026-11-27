@@ -1,0 +1,952 @@
+[
+  {
+    "qid": "q01",
+    "type": "word",
+    "query": "Hogwarts first year, Voldemort, Quidditch and the philosopher's stone",
+    "answer": "Harry Potter and the Philosopher's Stone",
+    "rank": 1,
+    "top10": [
+      "Harry Potter and the Philosopher's Stone (2001)  bm25_place=1  dense_place=1",
+      "Harry Potter and the Half-Blood Prince (2009)  bm25_place=2  dense_place=4",
+      "Harry Potter and the Goblet of Fire (2005)  bm25_place=3  dense_place=6",
+      "Harry Potter and the Order of the Phoenix (2007)  bm25_place=6  dense_place=2",
+      "Harry Potter and the Deathly Hallows: Part 2 (2011)  bm25_place=4  dense_place=9",
+      "Harry Potter and the Prisoner of Azkaban (2004)  bm25_place=7  dense_place=3",
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)  bm25_place=8  dense_place=5",
+      "Harry Potter and the Deathly Hallows: Part II (2011)  bm25_place=5  dense_place=26",
+      "Harry Potter and the Chamber of Secrets (2002)  bm25_place=9  dense_place=10",
+      "A Very Potter Senior Year (2013)  bm25_place=13  dense_place=7"
+    ]
+  },
+  {
+    "qid": "q02",
+    "type": "word",
+    "query": "Simba, Mufasa and Scar at Pride Rock",
+    "answer": "The Lion King",
+    "rank": 5,
+    "top10": [
+      "The Lion King (2019)  bm25_place=2  dense_place=1",
+      "The Lion King II: Simba's Pride (1998)  bm25_place=4  dense_place=2",
+      "Simba (2019)  bm25_place=6  dense_place=4",
+      "Curse of Simba (1965)  bm25_place=8  dense_place=3",
+      "The Lion King (1994)  bm25_place=1  dense_place=-",
+      "The Lion King 1½ (2004)  bm25_place=3  dense_place=-",
+      "Red Hot Chili Peppers - Live in Milan (2006)  bm25_place=5  dense_place=-",
+      "U2: Vertigo 2005 - Live from Chicago (2005)  bm25_place=7  dense_place=-",
+      "The Breakup Playlist (2015)  bm25_place=9  dense_place=-",
+      "The Punk Syndrome (2012)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q03",
+    "type": "word",
+    "query": "Jack and Rose on the ship that hits an iceberg",
+    "answer": "Titanic",
+    "rank": 1,
+    "top10": [
+      "Titanic (1997)  bm25_place=1  dense_place=4",
+      "The Icebreaker (2016)  bm25_place=2  dense_place=2",
+      "A Night to Remember (1958)  bm25_place=4  dense_place=5",
+      "The Ballad of Jack and Rose (2005)  bm25_place=3  dense_place=10",
+      "Down to the Sea in Ships (1949)  bm25_place=12  dense_place=6",
+      "The Cruel Sea (1953)  bm25_place=21  dense_place=44",
+      "Titanic (1943)  bm25_place=5  dense_place=-",
+      "Titanic II (2010)  bm25_place=6  dense_place=-",
+      "Surviving Sid (2008)  bm25_place=7  dense_place=-",
+      "Drain the Titanic (2015)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q04",
+    "type": "word",
+    "query": "Neo takes the red pill, Morpheus, Trinity and Agent Smith",
+    "answer": "The Matrix",
+    "rank": 3,
+    "top10": [
+      "The Matrix Reloaded (2003)  bm25_place=2  dense_place=1",
+      "The Matrix Revolutions (2003)  bm25_place=3  dense_place=9",
+      "The Matrix (1999)  bm25_place=1  dense_place=-",
+      "The Red Pill (2016)  bm25_place=30  dense_place=6",
+      "MTV Movie Awards Reloaded (2003)  bm25_place=4  dense_place=-",
+      "The Border (1982)  bm25_place=5  dense_place=-",
+      "Trinity Seven the Movie: The Eternal Library and the Alchemist Girl and The Smith's Fantasy Series (2017)  bm25_place=6  dense_place=-",
+      "Little Nemo: Adventures in Slumberland (1989)  bm25_place=7  dense_place=-",
+      "The Animatrix (2003)  bm25_place=8  dense_place=-",
+      "Anna Nicole (2013)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q05",
+    "type": "word",
+    "query": "why Kattappa killed Baahubali, Mahishmati and Devasena",
+    "answer": "Baahubali 2: The Conclusion",
+    "rank": 1,
+    "top10": [
+      "Bāhubali 2: The Conclusion (2017)  bm25_place=1  dense_place=81",
+      "Bāhubali: The Beginning (2015)  bm25_place=2  dense_place=-",
+      "Ainthaam Padai (2009)  bm25_place=3  dense_place=-",
+      "Sri Bharatha Baahubali (2020)  bm25_place=4  dense_place=-",
+      "Gajakessari (2014)  bm25_place=5  dense_place=-",
+      "Kattappava Kaanom (2017)  bm25_place=6  dense_place=-",
+      "Kannula Kaasa Kattappa (2016)  bm25_place=7  dense_place=-",
+      "Devanthakudu (1984)  bm25_place=8  dense_place=-",
+      "Sikkapatte Ishtapatte (2016)  bm25_place=9  dense_place=-",
+      "Arrest Me (2013)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q06",
+    "type": "word",
+    "query": "Raj and Simran meet on a train trip in Europe, mustard fields in Punjab",
+    "answer": "Dilwale Dulhania Le Jayenge",
+    "rank": 3,
+    "top10": [
+      "The Fourth Direction (2015)  bm25_place=4  dense_place=29",
+      "Bachna Ae Haseeno (2008)  bm25_place=7  dense_place=48",
+      "Dilwale Dulhania Le Jayenge (1995)  bm25_place=1  dense_place=-",
+      "I Hate Luv Storys (2010)  bm25_place=2  dense_place=-",
+      "Koi Mere Dil Mein Hai (2005)  bm25_place=3  dense_place=-",
+      "Son of Sardaar (2012)  bm25_place=23  dense_place=38",
+      "Kanave Kalaiyadhe (1999)  bm25_place=5  dense_place=-",
+      "Chak de Phatte (2008)  bm25_place=6  dense_place=-",
+      "Vaanavil (2000)  bm25_place=8  dense_place=-",
+      "Hadh Kar Di Aapne (2000)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q07",
+    "type": "word",
+    "query": "Gabbar Singh, Jai and Veeru, Thakur in Ramgarh",
+    "answer": "Sholay",
+    "rank": 6,
+    "top10": [
+      "Sholay 3D (2014)  bm25_place=1  dense_place=1",
+      "Main Tera Dushman (1989)  bm25_place=9  dense_place=4",
+      "Sardaar Gabbar Singh (2016)  bm25_place=8  dense_place=13",
+      "Tu Chor Main Sipahi (1996)  bm25_place=28  dense_place=6",
+      "Teri Meherbaniyan (1985)  bm25_place=24  dense_place=16",
+      "Sholay (1975)  bm25_place=2  dense_place=-",
+      "Duplicate Sholay (2002)  bm25_place=3  dense_place=-",
+      "Bhai Thakur (2000)  bm25_place=36  dense_place=2",
+      "Jai Veeru (2009)  bm25_place=4  dense_place=-",
+      "Hum Tere Ashiq Hain (1979)  bm25_place=31  dense_place=12"
+    ]
+  },
+  {
+    "qid": "q08",
+    "type": "word",
+    "query": "Rancho, Farhan and Raju at an engineering college with the director Virus",
+    "answer": "3 Idiots",
+    "rank": 2,
+    "top10": [
+      "Three Idiots (2009)  bm25_place=2  dense_place=1",
+      "3 Idiots (2009)  bm25_place=1  dense_place=8",
+      "1st Rank Raju (2019)  bm25_place=3  dense_place=2",
+      "7Aum Arivu (2011)  bm25_place=6  dense_place=4",
+      "Nanban (2012)  bm25_place=4  dense_place=-",
+      "Raju Ban Gaya Gentleman (1992)  bm25_place=15  dense_place=91",
+      "Rancho Grande (1940)  bm25_place=5  dense_place=-",
+      "Good Boy, Bad Boy (2007)  bm25_place=7  dense_place=-",
+      "Rose of the Rancho (1914)  bm25_place=8  dense_place=-",
+      "Thoda Tum Badlo Thoda Hum (2004)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q09",
+    "type": "word",
+    "query": "Dom Cobb, dream within a dream, spinning top totem",
+    "answer": "Inception",
+    "rank": 1,
+    "top10": [
+      "Inception (2010)  bm25_place=1  dense_place=11",
+      "House (1986)  bm25_place=5  dense_place=4",
+      "Dream Work (2001)  bm25_place=12  dense_place=6",
+      "Bhamardo (2026)  bm25_place=2  dense_place=-",
+      "House (1958)  bm25_place=3  dense_place=-",
+      "Born Reckless (1958)  bm25_place=4  dense_place=-",
+      "The Golden Ball (1994)  bm25_place=6  dense_place=-",
+      "Britney Spears: Live from Las Vegas (2001)  bm25_place=7  dense_place=-",
+      "The House (2011)  bm25_place=8  dense_place=-",
+      "The Firm (2009)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q10",
+    "type": "word",
+    "query": "Hannibal Lecter helps FBI trainee Clarice Starling",
+    "answer": "The Silence of the Lambs",
+    "rank": 1,
+    "top10": [
+      "The Silence of the Lambs (1991)  bm25_place=1  dense_place=1",
+      "Hannibal (2001)  bm25_place=2  dense_place=2",
+      "Serial Killers: The Real Life Hannibal Lecters (2001)  bm25_place=3  dense_place=8",
+      "Hannibal Rising (2007)  bm25_place=4  dense_place=5",
+      "Red Dragon (2002)  bm25_place=5  dense_place=4",
+      "Manhunter (1986)  bm25_place=6  dense_place=3",
+      "Feds (1988)  bm25_place=8  dense_place=9",
+      "Hannibal Buress: Animal Furnace (2012)  bm25_place=16  dense_place=20",
+      "Professor Hannibal (1956)  bm25_place=29  dense_place=15",
+      "The A-Team (2010)  bm25_place=19  dense_place=73"
+    ]
+  },
+  {
+    "qid": "q11",
+    "type": "word",
+    "query": "Marty McFly, DeLorean, Doc Brown, 1955",
+    "answer": "Back to the Future",
+    "rank": 1,
+    "top10": [
+      "Back to the Future (1985)  bm25_place=2  dense_place=1",
+      "Back in Time (2015)  bm25_place=4  dense_place=2",
+      "Doc Brown Saves the World (2015)  bm25_place=5  dense_place=3",
+      "Back to the Future Part III (1990)  bm25_place=3  dense_place=14",
+      "Back to the Future Part II (1989)  bm25_place=1  dense_place=26",
+      "Framing John DeLorean (2019)  bm25_place=7  dense_place=5",
+      "Back To the Present: The Special (2015)  bm25_place=8  dense_place=4",
+      "The Honey Pot (1967)  bm25_place=6  dense_place=-",
+      "Smart Girls Don't Talk (1948)  bm25_place=9  dense_place=-",
+      "I Want Someone to Eat Cheese With (2006)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q12",
+    "type": "word",
+    "query": "Wakanda, vibranium, T'Challa and Killmonger",
+    "answer": "Black Panther",
+    "rank": 5,
+    "top10": [
+      "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda (2018)  bm25_place=1  dense_place=3",
+      "Ultimate Avengers 2 (2006)  bm25_place=2  dense_place=2",
+      "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever (2023)  bm25_place=4  dense_place=5",
+      "Black Panther: Wakanda Forever (2022)  bm25_place=5  dense_place=4",
+      "Black Panther (2018)  bm25_place=3  dense_place=15",
+      "Black Panther (2010)  bm25_place=8  dense_place=1",
+      "Ultimate Avengers 2: Rise of the Panther (2006)  bm25_place=10  dense_place=6",
+      "Captain America: Civil War (2016)  bm25_place=6  dense_place=-",
+      "Shaadi Express (2017)  bm25_place=7  dense_place=-",
+      "Marvel Rising: Operation Shuri (2019)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q13",
+    "type": "word",
+    "query": "Bhuvan and villagers play cricket against British officers in Champaner to stop the tax",
+    "answer": "Lagaan",
+    "rank": 1,
+    "top10": [
+      "Lagaan: Once Upon a Time in India (2001)  bm25_place=1  dense_place=44",
+      "Chennai 600028 (2007)  bm25_place=7  dense_place=21",
+      "Mrigayaa (1976)  bm25_place=15  dense_place=6",
+      "Dil Bole Hadippa! (2009)  bm25_place=11  dense_place=64",
+      "Chingaari (2006)  bm25_place=2  dense_place=-",
+      "It's Not Cricket (1949)  bm25_place=3  dense_place=-",
+      "The Panama Papers (2018)  bm25_place=4  dense_place=-",
+      "Namak (2021)  bm25_place=5  dense_place=-",
+      "Bhuvan Shome (1969)  bm25_place=6  dense_place=-",
+      "1983 (2014)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q14",
+    "type": "word",
+    "query": "Pushpa Raj red sandalwood smuggler",
+    "answer": "Pushpa: The Rise",
+    "rank": 1,
+    "top10": [
+      "Pushpa: The Rise - Part 1 (2021)  bm25_place=1  dense_place=1",
+      "Veerappan (2016)  bm25_place=2  dense_place=4",
+      "Red Sandal Wood (2023)  bm25_place=4  dense_place=2",
+      "Red Indians (2001)  bm25_place=5  dense_place=3",
+      "Yalgaar (1992)  bm25_place=7  dense_place=35",
+      "Kartavya (1979)  bm25_place=26  dense_place=7",
+      "Kaadu (2014)  bm25_place=28  dense_place=11",
+      "Honest Raj (1994)  bm25_place=3  dense_place=-",
+      "Dhinamum Ennai Gavani (1997)  bm25_place=15  dense_place=93",
+      "Ponnu Velayira Bhoomi (1998)  bm25_place=6  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q15",
+    "type": "word",
+    "query": "Rocky Balboa, Philadelphia boxer, fight against Apollo Creed",
+    "answer": "Rocky",
+    "rank": 1,
+    "top10": [
+      "Rocky (1976)  bm25_place=1  dense_place=5",
+      "Rocky III (1982)  bm25_place=2  dense_place=2",
+      "Creed (2015)  bm25_place=5  dense_place=1",
+      "Rocky V (1990)  bm25_place=3  dense_place=12",
+      "Rocky IV (1985)  bm25_place=6  dense_place=4",
+      "Rocky II (1979)  bm25_place=4  dense_place=14",
+      "From Rocky to Creed: The Legacy Continues (2015)  bm25_place=8  dense_place=3",
+      "Rocky Balboa (2006)  bm25_place=7  dense_place=8",
+      "Creed III (2023)  bm25_place=10  dense_place=13",
+      "Creed II (2018)  bm25_place=13  dense_place=7"
+    ]
+  },
+  {
+    "qid": "q16",
+    "type": "word",
+    "query": "Vito Corleone and his son Michael, mafia family",
+    "answer": "The Godfather",
+    "rank": 1,
+    "top10": [
+      "The Godfather (1972)  bm25_place=1  dense_place=3",
+      "The Godfather Part II (1974)  bm25_place=2  dense_place=1",
+      "The Godfather Part III (1990)  bm25_place=4  dense_place=4",
+      "The Godfather Trilogy: 1901-1980 (1992)  bm25_place=7  dense_place=14",
+      "From Corleone to Brooklyn (1979)  bm25_place=5  dense_place=40",
+      "Flight of the Innocent (1992)  bm25_place=14  dense_place=7",
+      "Family Business (1989)  bm25_place=8  dense_place=36",
+      "The Godfather Legacy (2012)  bm25_place=18  dense_place=9",
+      "Vito and the Others (1991)  bm25_place=19  dense_place=13",
+      "Excellent Cadavers (1999)  bm25_place=11  dense_place=71"
+    ]
+  },
+  {
+    "qid": "q17",
+    "type": "word",
+    "query": "Woody, Buzz Lightyear and Andy's toys",
+    "answer": "Toy Story",
+    "rank": 1,
+    "top10": [
+      "Toy Story (1995)  bm25_place=1  dense_place=2",
+      "Toy Story 2 (1999)  bm25_place=2  dense_place=1",
+      "Toy Story 3 (2010)  bm25_place=3  dense_place=6",
+      "Beyond Infinity: Buzz and the Journey to Lightyear (2022)  bm25_place=5  dense_place=4",
+      "Buzz Lightyear of Star Command: The Adventure Begins (2000)  bm25_place=4  dense_place=21",
+      "Lightyear (2022)  bm25_place=7  dense_place=13",
+      "Hawaiian Vacation (2011)  bm25_place=6  dense_place=25",
+      "Operation Sawdust (1953)  bm25_place=15  dense_place=3",
+      "Hypnotic Hick (1953)  bm25_place=8  dense_place=33",
+      "Wild and Woody! (1948)  bm25_place=12  dense_place=20"
+    ]
+  },
+  {
+    "qid": "q18",
+    "type": "meaning",
+    "query": "a lion cub runs away after his uncle kills his father and later comes back to become king",
+    "answer": "The Lion King",
+    "rank": 2,
+    "top10": [
+      "The Lion King (2019)  bm25_place=1  dense_place=3",
+      "The Lion King (1994)  bm25_place=3  dense_place=2",
+      "King (2022)  bm25_place=5  dense_place=1",
+      "To Walk with Lions (1999)  bm25_place=10  dense_place=8",
+      "Africa (1930)  bm25_place=18  dense_place=11",
+      "Leo the Lion (1994)  bm25_place=2  dense_place=-",
+      "The Lion King 1½ (2004)  bm25_place=4  dense_place=-",
+      "The Lion King II: Simba's Pride (1998)  bm25_place=6  dense_place=-",
+      "Born Free (1966)  bm25_place=7  dense_place=-",
+      "Madagascar: Escape 2 Africa (2008)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q19",
+    "type": "meaning",
+    "query": "a man who can't make new memories tattoos clues on his body to find his wife's killer",
+    "answer": "Memento",
+    "rank": 3,
+    "top10": [
+      "The Thin Man (1934)  bm25_place=1  dense_place=-",
+      "Tell-Tale (2009)  bm25_place=2  dense_place=-",
+      "Memento (2000)  bm25_place=31  dense_place=6",
+      "Maayavan (2017)  bm25_place=3  dense_place=-",
+      "Nibunan (2017)  bm25_place=4  dense_place=-",
+      "Arena (2009)  bm25_place=23  dense_place=35",
+      "The Illustrated Man (1969)  bm25_place=5  dense_place=-",
+      "Memories (2013)  bm25_place=6  dense_place=-",
+      "Tattoo (1981)  bm25_place=28  dense_place=29",
+      "Vismaya (2017)  bm25_place=7  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q20",
+    "type": "meaning",
+    "query": "an old man ties thousands of balloons to his house and flies away, with a young boy scout on the porch",
+    "answer": "Up",
+    "rank": 5,
+    "top10": [
+      "The Red Balloon (1956)  bm25_place=20  dense_place=18",
+      "A Ticklish Affair (1963)  bm25_place=1  dense_place=-",
+      "Bushy Hare (1950)  bm25_place=2  dense_place=-",
+      "759: Boy Scouts of Harlem (2009)  bm25_place=3  dense_place=-",
+      "Up (2009)  bm25_place=4  dense_place=-",
+      "Cub (2014)  bm25_place=5  dense_place=-",
+      "Mister Scoutmaster (1953)  bm25_place=6  dense_place=-",
+      "Danny Deckchair (2003)  bm25_place=7  dense_place=-",
+      "The Stalking Moon (1968)  bm25_place=8  dense_place=-",
+      "Why Has Bodhi-Dharma Left for the East? (1989)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q21",
+    "type": "meaning",
+    "query": "a family man fools the police about dates to cover up a crime his daughter committed",
+    "answer": "Drishyam",
+    "rank": null,
+    "top10": [
+      "A Family of Cops (1995)  bm25_place=2  dense_place=24",
+      "Double Wedding (2010)  bm25_place=1  dense_place=-",
+      "Family of Cops (1995)  bm25_place=3  dense_place=-",
+      "Crucible, The!The Crucible (2011)  bm25_place=4  dense_place=-",
+      "Arbitrage (2012)  bm25_place=5  dense_place=-",
+      "Boond Jo Ban Gayee Moti (1967)  bm25_place=6  dense_place=-",
+      "Blood on Her Name (2020)  bm25_place=7  dense_place=-",
+      "The Cannibal Man (1974)  bm25_place=8  dense_place=-",
+      "Visaranai (2016)  bm25_place=9  dense_place=-",
+      "Waterfront Lady (1935)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q22",
+    "type": "meaning",
+    "query": "a poor family slowly tricks their way into working for a rich family in their house",
+    "answer": "Parasite",
+    "rank": null,
+    "top10": [
+      "Our Family (1975)  bm25_place=12  dense_place=9",
+      "Poor but Rich (2016)  bm25_place=7  dense_place=58",
+      "Jamai Raja (1990)  bm25_place=1  dense_place=-",
+      "Ajab Gazabb Love (2012)  bm25_place=2  dense_place=-",
+      "Rich in Love (1992)  bm25_place=3  dense_place=-",
+      "Rich and Poor (1983)  bm25_place=4  dense_place=-",
+      "Seema Tapakai (2011)  bm25_place=5  dense_place=-",
+      "Children of the Ritz (1929)  bm25_place=20  dense_place=61",
+      "Der Müller und sein Kind (1911)  bm25_place=6  dense_place=-",
+      "Christopher's Christmas Mission (1975)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q23",
+    "type": "meaning",
+    "query": "a boy survives a shipwreck and shares a lifeboat with a tiger in the ocean",
+    "answer": "Life of Pi",
+    "rank": 1,
+    "top10": [
+      "Life of Pi (2012)  bm25_place=1  dense_place=15",
+      "Abandon Ship (1957)  bm25_place=3  dense_place=40",
+      "Below (2002)  bm25_place=4  dense_place=36",
+      "The Blue Lagoon (1949)  bm25_place=9  dense_place=13",
+      "Blood Vessel (2019)  bm25_place=5  dense_place=50",
+      "The Whale (2013)  bm25_place=12  dense_place=47",
+      "A Tiger's Tail (2014)  bm25_place=25  dense_place=4",
+      "Tiger Boy (2012)  bm25_place=30  dense_place=2",
+      "Dinotopia: Quest for the Ruby Sunstone (2005)  bm25_place=2  dense_place=-",
+      "Britannic (2000)  bm25_place=6  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q24",
+    "type": "meaning",
+    "query": "a weatherman lives the same day again and again in a small town",
+    "answer": "Groundhog Day",
+    "rank": 1,
+    "top10": [
+      "Groundhog Day (1993)  bm25_place=1  dense_place=1",
+      "All Hail (2022)  bm25_place=2  dense_place=23",
+      "Justice League of America (1997)  bm25_place=3  dense_place=-",
+      "The Dam Keeper (2014)  bm25_place=4  dense_place=-",
+      "By the Light of the Silvery Moon (1953)  bm25_place=5  dense_place=-",
+      "My Friend Rashed (2011)  bm25_place=6  dense_place=-",
+      "Citoyen d'honneur (2022)  bm25_place=7  dense_place=-",
+      "Anjaana (1969)  bm25_place=8  dense_place=-",
+      "The Falls: Testament Of Love (2013)  bm25_place=9  dense_place=-",
+      "George Carlin: Again! (1978)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q25",
+    "type": "meaning",
+    "query": "a lonely robot cleaning up an abandoned dirty earth falls in love",
+    "answer": "WALL-E",
+    "rank": 3,
+    "top10": [
+      "Plug (2014)  bm25_place=1  dense_place=-",
+      "Marooned (2019)  bm25_place=23  dense_place=17",
+      "WALL·E (2008)  bm25_place=2  dense_place=-",
+      "The Paneless Window Washer (1937)  bm25_place=3  dense_place=-",
+      "Lost in Space (1998)  bm25_place=4  dense_place=-",
+      "Finch (2021)  bm25_place=5  dense_place=-",
+      "Tom and Jerry Blast Off to Mars! (2005)  bm25_place=6  dense_place=-",
+      "Love (2011)  bm25_place=40  dense_place=7",
+      "Rogue Warrior: Robot Fighter (2017)  bm25_place=7  dense_place=-",
+      "Transformers: Beginnings (2006)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q26",
+    "type": "meaning",
+    "query": "an astronaut stranded alone on Mars grows potatoes to survive",
+    "answer": "The Martian",
+    "rank": 1,
+    "top10": [
+      "The Martian (2015)  bm25_place=1  dense_place=1",
+      "Love (2011)  bm25_place=4  dense_place=2",
+      "Stranded (2001)  bm25_place=3  dense_place=5",
+      "Robinson Crusoe on Mars (1964)  bm25_place=8  dense_place=6",
+      "The Sea of Perdition (2006)  bm25_place=2  dense_place=61",
+      "Black Holes (2017)  bm25_place=10  dense_place=21",
+      "RocketMan (1997)  bm25_place=16  dense_place=36",
+      "Mission to Mars (2000)  bm25_place=13  dense_place=78",
+      "Queen of Blood (1966)  bm25_place=15  dense_place=86",
+      "The Moon (2023)  bm25_place=5  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q27",
+    "type": "meaning",
+    "query": "an art teacher at a boarding school finds out a struggling boy is dyslexic and helps him",
+    "answer": "Taare Zameen Par",
+    "rank": 3,
+    "top10": [
+      "Я делаю шаг (2023)  bm25_place=6  dense_place=1",
+      "The Flying Classroom (1973)  bm25_place=11  dense_place=6",
+      "Taare Zameen Par (2007)  bm25_place=1  dense_place=63",
+      "Desirable Teacher 2 (1982)  bm25_place=10  dense_place=15",
+      "Boys to Board (1923)  bm25_place=3  dense_place=92",
+      "The Flying Classroom (2003)  bm25_place=19  dense_place=8",
+      "Like Stars on Earth (2007)  bm25_place=2  dense_place=-",
+      "The Dull Ice Flower (1989)  bm25_place=14  dense_place=72",
+      "Out of Bounds (2003)  bm25_place=4  dense_place=-",
+      "Down a Dark Hall (2018)  bm25_place=5  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q28",
+    "type": "meaning",
+    "query": "a former wrestler trains his daughters to win gold medals for the country",
+    "answer": "Dangal",
+    "rank": 3,
+    "top10": [
+      "Love+Sling (2018)  bm25_place=3  dense_place=27",
+      "Clap (2022)  bm25_place=1  dense_place=89",
+      "Dangal (2016)  bm25_place=18  dense_place=14",
+      "Nadia (1984)  bm25_place=14  dense_place=31",
+      "Body Slam (1986)  bm25_place=2  dense_place=-",
+      "Breaking the Surface: The Greg Louganis Story (1997)  bm25_place=4  dense_place=-",
+      "Cool Runnings (1993)  bm25_place=5  dense_place=-",
+      "Xuxa Requebra (1999)  bm25_place=6  dense_place=-",
+      "Once Upon a Time in the East (2011)  bm25_place=7  dense_place=-",
+      "The Treasure of Pancho Villa (1955)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q29",
+    "type": "meaning",
+    "query": "a boy from the slums wins a quiz show because each question links to his life",
+    "answer": "Slumdog Millionaire",
+    "rank": 2,
+    "top10": [
+      "Colourkite (2015)  bm25_place=10  dense_place=1",
+      "Slumdog Millionaire (2008)  bm25_place=11  dense_place=3",
+      "Starter for 10 (2006)  bm25_place=7  dense_place=16",
+      "The Computer Wore Tennis Shoes (1995)  bm25_place=4  dense_place=41",
+      "The Quiz Show Scandal (2010)  bm25_place=1  dense_place=84",
+      "Deveeri (1999)  bm25_place=14  dense_place=5",
+      "The Jackpot (1950)  bm25_place=12  dense_place=67",
+      "Quiz Show (1994)  bm25_place=2  dense_place=-",
+      "The Ducksters (1950)  bm25_place=3  dense_place=-",
+      "Quiz (2012)  bm25_place=5  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q30",
+    "type": "meaning",
+    "query": "a little alien left behind on earth becomes friends with a boy who helps him phone home",
+    "answer": "E.T. the Extra-Terrestrial",
+    "rank": 1,
+    "top10": [
+      "E.T. the Extra-Terrestrial (1982)  bm25_place=1  dense_place=5",
+      "The Sheriff and the Satellite Kid (1979)  bm25_place=4  dense_place=27",
+      "Ultraman Cosmos: The First Contact (2001)  bm25_place=11  dense_place=16",
+      "Larry-Boy and the Fib from Outer Space! (1997)  bm25_place=16  dense_place=31",
+      "Visit to a Small Planet (1960)  bm25_place=10  dense_place=87",
+      "Extraterrestrial Visitors (1983)  bm25_place=24  dense_place=15",
+      "Chicken Little (2005)  bm25_place=2  dense_place=-",
+      "Alien Agent (2007)  bm25_place=3  dense_place=-",
+      "Gamera vs. Viras (1968)  bm25_place=5  dense_place=-",
+      "Cocoon: The Return (1988)  bm25_place=6  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q31",
+    "type": "meaning",
+    "query": "a theme park with real dinosaurs on an island goes wrong when the animals escape",
+    "answer": "Jurassic Park",
+    "rank": 1,
+    "top10": [
+      "Jurassic Park (1993)  bm25_place=2  dense_place=1",
+      "Jurassic World (2015)  bm25_place=1  dense_place=6",
+      "The Lost World: Jurassic Park (1997)  bm25_place=3  dense_place=14",
+      "Unknown Island (1948)  bm25_place=10  dense_place=8",
+      "Dinosaur Island (1994)  bm25_place=11  dense_place=11",
+      "When Dinosaurs Roamed America (2001)  bm25_place=7  dense_place=28",
+      "The Land That Time Forgot (2009)  bm25_place=9  dense_place=34",
+      "Raptor Island (2004)  bm25_place=4  dense_place=87",
+      "Jurassic World: Fallen Kingdom (2018)  bm25_place=6  dense_place=70",
+      "Zoombies (2016)  bm25_place=12  dense_place=44"
+    ]
+  },
+  {
+    "qid": "q32",
+    "type": "meaning",
+    "query": "a banker wrongly sent to prison for killing his wife digs a tunnel for years and escapes",
+    "answer": "The Shawshank Redemption",
+    "rank": 9,
+    "top10": [
+      "The Tomb (2013)  bm25_place=8  dense_place=9",
+      "The Killer is Loose (1956)  bm25_place=15  dense_place=4",
+      "Rob the Bank (1964)  bm25_place=17  dense_place=2",
+      "Cruel & Unusual (2014)  bm25_place=20  dense_place=1",
+      "The Hills Run Red (1966)  bm25_place=1  dense_place=-",
+      "Convicted (1950)  bm25_place=2  dense_place=-",
+      "Within the Law (1916)  bm25_place=3  dense_place=-",
+      "House of Women (1962)  bm25_place=4  dense_place=-",
+      "The Shawshank Redemption (1994)  bm25_place=5  dense_place=-",
+      "Instinct (1999)  bm25_place=6  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q33",
+    "type": "meaning",
+    "query": "an alien lands in India, loses the remote for his spaceship and starts questioning religion",
+    "answer": "PK",
+    "rank": 1,
+    "top10": [
+      "PK (2014)  bm25_place=1  dense_place=1",
+      "Contact (1978)  bm25_place=4  dense_place=8",
+      "The Dustwalker (2020)  bm25_place=11  dense_place=86",
+      "Attraction (2017)  bm25_place=14  dense_place=64",
+      "Nightbeast (1982)  bm25_place=2  dense_place=-",
+      "The Man from Planet X (1951)  bm25_place=3  dense_place=-",
+      "Man Vs. (2015)  bm25_place=5  dense_place=-",
+      "Terror in the Midnight Sun (1959)  bm25_place=6  dense_place=-",
+      "Alien Space Avenger (1989)  bm25_place=7  dense_place=-",
+      "Queen of Blood (1966)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q34",
+    "type": "meaning",
+    "query": "a girl enters a world of spirits where her parents are turned into pigs",
+    "answer": "Spirited Away",
+    "rank": 1,
+    "top10": [
+      "Spirited Away (2001)  bm25_place=1  dense_place=72",
+      "Daddy's Deadly Darling (1973)  bm25_place=2  dense_place=-",
+      "Rise of the Animals (2012)  bm25_place=24  dense_place=23",
+      "Blitz Wolf (1942)  bm25_place=3  dense_place=-",
+      "My Sister, the Pig Lady (2015)  bm25_place=35  dense_place=4",
+      "Pulse (2006)  bm25_place=4  dense_place=-",
+      "Gekijōban Date A Live: Mayuri Judgment (2015)  bm25_place=5  dense_place=-",
+      "Lost in the Moonlight (2016)  bm25_place=6  dense_place=-",
+      "Dance To The Spirits (2009)  bm25_place=7  dense_place=-",
+      "Shaapit (2010)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q35",
+    "type": "meaning",
+    "query": "a murdered man is reborn as a housefly and takes revenge on his killer",
+    "answer": "Eega",
+    "rank": 4,
+    "top10": [
+      "One Man's Justice (1996)  bm25_place=2  dense_place=27",
+      "Corbin Nash (2018)  bm25_place=1  dense_place=88",
+      "Father's Day (2011)  bm25_place=3  dense_place=-",
+      "Eega (2012)  bm25_place=4  dense_place=-",
+      "In a Valley of Violence (2016)  bm25_place=5  dense_place=-",
+      "Sleepstalker (1995)  bm25_place=6  dense_place=-",
+      "Thunder Prince (1987)  bm25_place=7  dense_place=-",
+      "Rahtree Reborn (2009)  bm25_place=8  dense_place=-",
+      "The Car: Road to Revenge (2019)  bm25_place=9  dense_place=-",
+      "Naan Ee (2012)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q36",
+    "type": "judge",
+    "query": "the second part, where we finally learn why the loyal servant killed the hero",
+    "answer": "Baahubali 2: The Conclusion",
+    "rank": null,
+    "top10": [
+      "Aventure Malgache (1944)  bm25_place=1  dense_place=-",
+      "Sinners in Paradise (1938)  bm25_place=2  dense_place=-",
+      "Why We Fight: The Battle of Russia (1943)  bm25_place=3  dense_place=-",
+      "Why We Fight: The Nazis Strike (1943)  bm25_place=4  dense_place=-",
+      "Fedora (1978)  bm25_place=5  dense_place=-",
+      "The Truth About Mother Goose (1957)  bm25_place=6  dense_place=-",
+      "Hu Tu Tu (1999)  bm25_place=7  dense_place=-",
+      "Why We Fight: The Battle of Britain (1943)  bm25_place=8  dense_place=-",
+      "Knock Off (1998)  bm25_place=9  dense_place=-",
+      "Aapathbandhavudu (1992)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q37",
+    "type": "judge",
+    "query": "the toy story where the toys end up in a daycare and almost burn at a garbage dump",
+    "answer": "Toy Story 3",
+    "rank": 7,
+    "top10": [
+      "Broken Toys (1935)  bm25_place=3  dense_place=5",
+      "The Mouse and His Child (1977)  bm25_place=2  dense_place=19",
+      "In the Bag (1956)  bm25_place=4  dense_place=33",
+      "Toy Story (1995)  bm25_place=10  dense_place=20",
+      "Kooky (2010)  bm25_place=6  dense_place=44",
+      "Toy Story of Terror! (2013)  bm25_place=8  dense_place=36",
+      "Toy Story 3 (2010)  bm25_place=1  dense_place=-",
+      "Deadly Daycare (2014)  bm25_place=23  dense_place=21",
+      "The Pink Soldier (2006)  bm25_place=32  dense_place=11",
+      "Isle of Flowers (1989)  bm25_place=5  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q38",
+    "type": "judge",
+    "query": "the godfather film that shows young Vito's early life in New York next to Michael's story",
+    "answer": "The Godfather Part II",
+    "rank": 1,
+    "top10": [
+      "The Godfather Part II (1974)  bm25_place=2  dense_place=1",
+      "The Godfather (1972)  bm25_place=1  dense_place=6",
+      "Gangster Wars (1981)  bm25_place=6  dense_place=4",
+      "The Godfather Part III (1990)  bm25_place=12  dense_place=3",
+      "Al Pacino: The Reluctant Star (2020)  bm25_place=11  dense_place=7",
+      "The Don's Analyst (1997)  bm25_place=14  dense_place=25",
+      "Mob Town (2019)  bm25_place=13  dense_place=34",
+      "The Most Beautiful Wife (1970)  bm25_place=20  dense_place=21",
+      "The Freshman (1990)  bm25_place=22  dense_place=20",
+      "Mickey Blue Eyes (1999)  bm25_place=3  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q39",
+    "type": "judge",
+    "query": "the harry potter film where they go back in time with a time turner to save his godfather",
+    "answer": "Harry Potter and the Prisoner of Azkaban",
+    "rank": 1,
+    "top10": [
+      "Harry Potter and the Prisoner of Azkaban (2004)  bm25_place=3  dense_place=16",
+      "Harry Potter 20th Anniversary: Return to Hogwarts (2022)  bm25_place=2  dense_place=23",
+      "Harry Potter and the Deathly Hallows: Part 2 (2011)  bm25_place=10  dense_place=32",
+      "Harry Potter and the Philosopher's Stone (2001)  bm25_place=18  dense_place=8",
+      "Harry Potter and the Deathly Hallows: Part 1 (2010)  bm25_place=20  dense_place=9",
+      "A Very Potter Sequel (2010)  bm25_place=1  dense_place=-",
+      "The Jack-Knife Man (1920)  bm25_place=4  dense_place=-",
+      "It's a Wonderful Life (1946)  bm25_place=5  dense_place=-",
+      "Harry Potter and the Order of the Phoenix (2007)  bm25_place=6  dense_place=-",
+      "Troll (1986)  bm25_place=7  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q40",
+    "type": "judge",
+    "query": "the batman film where the joker burns a pile of money and makes two ferries choose",
+    "answer": "The Dark Knight",
+    "rank": 2,
+    "top10": [
+      "City of Scars (2010)  bm25_place=8  dense_place=4",
+      "The Dark Knight (2008)  bm25_place=1  dense_place=-",
+      "Batman: Dead End (2003)  bm25_place=2  dense_place=-",
+      "Batman: Under the Red Hood (2010)  bm25_place=3  dense_place=-",
+      "Batman (1989)  bm25_place=4  dense_place=-",
+      "Lego Batman: The Movie - DC Super Heroes Unite (2013)  bm25_place=18  dense_place=69",
+      "The Batman vs. Dracula (2005)  bm25_place=5  dense_place=-",
+      "Batman XXX: A Porn Parody (2010)  bm25_place=6  dense_place=-",
+      "Batman: Mask of the Phantasm (1993)  bm25_place=7  dense_place=-",
+      "Batman Beyond: Return of the Joker (2000)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q41",
+    "type": "judge",
+    "query": "a couple pays a company to erase their memories of each other after a breakup",
+    "answer": "Eternal Sunshine of the Spotless Mind",
+    "rank": 1,
+    "top10": [
+      "Eternal Sunshine of the Spotless Mind (2004)  bm25_place=1  dense_place=-",
+      "HIRAETH (2026)  bm25_place=2  dense_place=-",
+      "I THINK THEREFORE I AM (2026)  bm25_place=3  dense_place=-",
+      "Love & Passion (1987)  bm25_place=4  dense_place=-",
+      "Loudspeaker (2009)  bm25_place=5  dense_place=-",
+      "Pattam Pole (2013)  bm25_place=6  dense_place=-",
+      "Battle of Memories (2017)  bm25_place=7  dense_place=-",
+      "Break Up 100 (2014)  bm25_place=8  dense_place=-",
+      "That Girl (2022)  bm25_place=9  dense_place=-",
+      "The Story on Page One (1959)  bm25_place=10  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q42",
+    "type": "judge",
+    "query": "the hindi remake where a father hides a body under a police station",
+    "answer": "Drishyam",
+    "rank": null,
+    "top10": [
+      "Prom Night (2008)  bm25_place=1  dense_place=-",
+      "Nippulanti Manishi (1974)  bm25_place=26  dense_place=11",
+      "Shortcut Romeo (2013)  bm25_place=2  dense_place=-",
+      "Dharma (1998)  bm25_place=3  dense_place=-",
+      "Neti Siddhartha (1990)  bm25_place=4  dense_place=-",
+      "Splinter (2008)  bm25_place=5  dense_place=-",
+      "Bholaa (2023)  bm25_place=6  dense_place=-",
+      "Mehrban (1967)  bm25_place=7  dense_place=-",
+      "Sargam (1979)  bm25_place=8  dense_place=-",
+      "Satyameva Jeyate (2009)  bm25_place=9  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q43",
+    "type": "judge",
+    "query": "the jurassic park sequel where a T-rex runs through the streets of San Diego",
+    "answer": "The Lost World: Jurassic Park",
+    "rank": 1,
+    "top10": [
+      "The Lost World: Jurassic Park (1997)  bm25_place=1  dense_place=1",
+      "Jurassic World (2015)  bm25_place=3  dense_place=2",
+      "Jurassic World: Fallen Kingdom (2018)  bm25_place=2  dense_place=8",
+      "Return to Jurassic Park (2011)  bm25_place=5  dense_place=18",
+      "Jurassic Park (1993)  bm25_place=10  dense_place=6",
+      "Jurassic City (2015)  bm25_place=9  dense_place=11",
+      "Pursuit (1972)  bm25_place=4  dense_place=44",
+      "The Jurassic Dead (2017)  bm25_place=6  dense_place=38",
+      "Jurassic World Dominion (2022)  bm25_place=11  dense_place=23",
+      "Jurassic Attack (2013)  bm25_place=17  dense_place=17"
+    ]
+  },
+  {
+    "qid": "q44",
+    "type": "judge",
+    "query": "the first boxing film where the underdog loses on points but goes the distance",
+    "answer": "Rocky",
+    "rank": 1,
+    "top10": [
+      "Rocky (1976)  bm25_place=8  dense_place=22",
+      "Fat City (1972)  bm25_place=7  dense_place=28",
+      "The Hammer (2007)  bm25_place=13  dense_place=8",
+      "Rocky VI (1986)  bm25_place=11  dense_place=39",
+      "40 Years of Rocky: The Birth of a Classic (2020)  bm25_place=1  dense_place=-",
+      "Creed (2015)  bm25_place=2  dense_place=-",
+      "Corbett and Courtney Before the Kinetograph (1894)  bm25_place=3  dense_place=-",
+      "King of the World (2000)  bm25_place=4  dense_place=-",
+      "Klitschko (2011)  bm25_place=5  dense_place=-",
+      "Pepe El Toro (1953)  bm25_place=29  dense_place=24"
+    ]
+  },
+  {
+    "qid": "q45",
+    "type": "judge",
+    "query": "the back to the future film set in the wild west in 1885",
+    "answer": "Back to the Future Part III",
+    "rank": 1,
+    "top10": [
+      "Back to the Future Part III (1990)  bm25_place=1  dense_place=1",
+      "Wild and Woolly (1917)  bm25_place=4  dense_place=34",
+      "Wagons East! (1994)  bm25_place=14  dense_place=23",
+      "A Man from the Boulevard des Capuchines (1987)  bm25_place=7  dense_place=81",
+      "The Resurrection of Broncho Billy (1970)  bm25_place=10  dense_place=71",
+      "Buffalo Bill and the Indians, or Sitting Bull's History Lesson (1976)  bm25_place=2  dense_place=-",
+      "Big City (2007)  bm25_place=3  dense_place=-",
+      "The Wild Wild West Revisited (1979)  bm25_place=25  dense_place=32",
+      "Yellowstone Kelly (1959)  bm25_place=5  dense_place=-",
+      "Back to the Future Part II (1989)  bm25_place=27  dense_place=27"
+    ]
+  },
+  {
+    "qid": "q46",
+    "type": "judge",
+    "query": "the matrix sequel with the highway chase and the meeting with the Architect",
+    "answer": "The Matrix Reloaded",
+    "rank": 1,
+    "top10": [
+      "The Matrix Reloaded (2003)  bm25_place=1  dense_place=3",
+      "The Matrix Revolutions (2003)  bm25_place=6  dense_place=12",
+      "The Matrix Revolutions: Neo Realism - Evolution of Bullet Time (2004)  bm25_place=11  dense_place=4",
+      "The Matrix (1999)  bm25_place=9  dense_place=14",
+      "The Matrix Revisited (2001)  bm25_place=12  dense_place=23",
+      "The Matrix Recalibrated (2004)  bm25_place=20  dense_place=7",
+      "The Matrix Reloaded Revisited (2004)  bm25_place=14  dense_place=55",
+      "The Animatrix (2003)  bm25_place=17  dense_place=43",
+      "Armitage: Dual Matrix (2002)  bm25_place=2  dense_place=-",
+      "Commando (1985)  bm25_place=3  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q47",
+    "type": "judge",
+    "query": "the avengers film where Thanos snaps his fingers and half of everyone disappears",
+    "answer": "Avengers: Infinity War",
+    "rank": 2,
+    "top10": [
+      "Avengers: Endgame (2019)  bm25_place=2  dense_place=9",
+      "Avengers: Infinity War (2018)  bm25_place=4  dense_place=6",
+      "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda (2018)  bm25_place=1  dense_place=26",
+      "Avengers, TheThe Avengers (2012)  bm25_place=10  dense_place=4",
+      "The Elusive Avengers (1966)  bm25_place=8  dense_place=12",
+      "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat (2017)  bm25_place=3  dense_place=70",
+      "The Avengers (2012)  bm25_place=17  dense_place=7",
+      "Ultimate Avengers 2 (2006)  bm25_place=13  dense_place=92",
+      "Marvel One-Shot: The Consultant (2011)  bm25_place=35  dense_place=5",
+      "The New Adventures of the Elusive Avengers (1968)  bm25_place=26  dense_place=24"
+    ]
+  },
+  {
+    "qid": "q48",
+    "type": "judge",
+    "query": "the first chapter where Rocky goes undercover into the gold mines",
+    "answer": "K.G.F: Chapter 1",
+    "rank": 4,
+    "top10": [
+      "K.G.F: Chapter 2 (2022)  bm25_place=2  dense_place=1",
+      "Rocky (2013)  bm25_place=12  dense_place=4",
+      "Lawless Range (1935)  bm25_place=16  dense_place=28",
+      "K.G.F: Chapter 1 (2018)  bm25_place=1  dense_place=-",
+      "Joaquim (2017)  bm25_place=3  dense_place=-",
+      "Rover Dangerfield (1991)  bm25_place=4  dense_place=-",
+      "Rocky II (1979)  bm25_place=5  dense_place=-",
+      "Eight Legged Freaks (2002)  bm25_place=6  dense_place=-",
+      "Raktakarabi (2025)  bm25_place=7  dense_place=-",
+      "Covered Wagon Raid (1950)  bm25_place=8  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q49",
+    "type": "judge",
+    "query": "the shrek film where he meets Fiona's parents in Far Far Away",
+    "answer": "Shrek 2",
+    "rank": 3,
+    "top10": [
+      "Shrek Forever After (2010)  bm25_place=2  dense_place=1",
+      "Shrek the Third (2007)  bm25_place=1  dense_place=6",
+      "Shrek 2 (2004)  bm25_place=3  dense_place=2",
+      "Far Far Away Idol (2004)  bm25_place=4  dense_place=4",
+      "Shrek Stories (2013)  bm25_place=7  dense_place=5",
+      "The Ghost of Lord Farquaad (2004)  bm25_place=8  dense_place=3",
+      "Shrek the Halls (2007)  bm25_place=5  dense_place=28",
+      "This Is My Father (1998)  bm25_place=15  dense_place=9",
+      "The Secret of Roan Inish (1994)  bm25_place=25  dense_place=15",
+      "Shrek (2001)  bm25_place=6  dense_place=-"
+    ]
+  },
+  {
+    "qid": "q50",
+    "type": "judge",
+    "query": "the pirates film where they rescue Jack Sparrow from Davy Jones' Locker",
+    "answer": "Pirates of the Caribbean: At World's End",
+    "rank": 2,
+    "top10": [
+      "Pirates of the Caribbean: Dead Man's Chest (2006)  bm25_place=1  dense_place=1",
+      "Pirates of the Caribbean: At World's End (2007)  bm25_place=2  dense_place=14",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)  bm25_place=5  dense_place=4",
+      "Pirates of the Caribbean: Dead Men Tell No Tales (2017)  bm25_place=3  dense_place=12",
+      "Pirates of the Caribbean: Tales of the Code: Wedlocked (2011)  bm25_place=4  dense_place=67",
+      "Davey Jones' Locker (1900)  bm25_place=17  dense_place=5",
+      "Jack Ahoy (1934)  bm25_place=10  dense_place=35",
+      "Swashbuckler (1976)  bm25_place=9  dense_place=100",
+      "Pirates of the Caribbean: On Stranger Tides (2011)  bm25_place=15  dense_place=60",
+      "The Sea Hound (1947)  bm25_place=39  dense_place=2"
+    ]
+  }
+]

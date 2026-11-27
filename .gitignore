@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- Project-specific ----
+
+# Datasets (too big for GitHub; download links are in the README)
+data/raw/
+
+# Speed caches we build later (BM25 index, embeddings); rebuilt from the clean data
+*.pkl
+*.npy
+
+# Mac system files
+.DS_Store
+
+# Big data files (rebuilt by the scripts)
+data/merged/
+data/index/
+data/clean/*.json
